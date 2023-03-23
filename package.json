@@ -1,0 +1,10 @@
+{
+  "name": "SudokuMain2",
+  "uuid": "32167fe4-cee3-4f74-8a5e-16ee5fe0ee92",
+  "creator": {
+    "version": "3.7.1"
+  },
+  "dependencies": {
+    "@algorithm.ts/sudoku": "^3.0.0-alpha.8"
+  }
+}
