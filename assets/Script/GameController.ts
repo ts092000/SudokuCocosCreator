@@ -130,6 +130,10 @@ export class GameController extends Component {
         director.loadScene("MainGame");
         this.gameView.StartGame.active = false;
     }
+    continueGame(){
+        director.resume();
+        this.settingNode.active = false;
+    }
     displayLevelPanel(){
         this.levelPanel.active = true;
     }
@@ -173,7 +177,6 @@ export class GameController extends Component {
         }
 
         let emtyNode = 0;
-
         for (let i = 0; i < 9; i++) {
             for (let j = 0; j < 9; j++) {
 
@@ -191,12 +194,22 @@ export class GameController extends Component {
                     emtyNode++;
                 }
 
+                let blueEntered = false;
+                // nodeSudoku.on(Node.EventType.TOUCH_END, () => {
+                //     if (value === 0) {
+                //         this.selectedNode = nodeSudoku;
+                //         labelBlock.string = "-";
+                //         console.log(emtyNode);
+                //     }
+                // });
                 nodeSudoku.on(Node.EventType.TOUCH_END, () => {
                     if (value === 0) {
-                        this.selectedNode = nodeSudoku;
-                        labelBlock.string = "-";
+                      this.selectedNode = nodeSudoku;
+                      labelBlock.string = "-";
+                      console.log(emtyNode);
                     }
-                });
+                  });
+
 
             }
             const nodeNum = new Node("NumberValueLabel");
@@ -238,10 +251,9 @@ export class GameController extends Component {
                                 console.log(bestTime);
                                 this.bestTime.string = 'best Time: ' +bestTime;                       
                             }
-                            console.log(emtyNode);
                         } else {
                             labelBlock.color = Color.BLUE;
-                            emtyNode--;
+                            emtyNode -= 1;
                             console.log(emtyNode);
                             if (emtyNode === 0){
                                 console.log("winner");
