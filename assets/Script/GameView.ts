@@ -12,5 +12,3 @@ export class GameView extends Component {
         this.startGame = v;
     }
 }
-
-

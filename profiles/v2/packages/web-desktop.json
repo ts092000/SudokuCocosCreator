@@ -1,0 +1,26 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      }
+    },
+    "taskOptionsMap": {
+      "1679996393186": {
+        "useWebGPU": false,
+        "resolution": {
+          "designWidth": 960,
+          "designHeight": 600
+        },
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.4"
+  }
+}
