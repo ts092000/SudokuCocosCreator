@@ -1,0 +1,430 @@
+{
+  "6a36e213-fff7-4bc8-a52c-38464eac787b": {
+    "url": "db://assets/Scene",
+    "value": {}
+  },
+  "9a5bce71-9ae1-4c17-8bed-eb896cfc849c": {
+    "url": "db://assets/Scene/MainGame.scene",
+    "value": {
+      "depends": [
+        "9a5bce71-9ae1-4c17-8bed-eb896cfc849c",
+        "400bb74d-2e3d-43b9-981a-1edf2a677b76@f9941",
+        "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594@f9941",
+        "a8b5000d-41a3-4b1c-83fe-f48e61f3a22f",
+        "898c6154-5bea-4c1f-97b1-3dc81a41b512",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@f9941",
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@f9941",
+        "7a0b3be1-c66e-4076-a45e-c23c698b5c26@f9941",
+        "5bb18c94-25c6-459f-87ed-3911d6e431f7",
+        "bfd20b41-5424-4151-86ec-41735fd09e51",
+        "a106f31d-da27-4c2c-9819-b07178a44960",
+        "ba7fde84-76a0-4cb0-b81a-d263e69a6f19",
+        "1337b7fe-3c80-460f-8928-fbb86b035231@f9941"
+      ]
+    }
+  },
+  "6670973e-396b-47a7-89b8-98c30e0652eb": {
+    "url": "db://assets/Script",
+    "value": {}
+  },
+  "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99": {
+    "url": "db://assets/Script/GameController.ts",
+    "value": {}
+  },
+  "8a109712-9a75-43bd-b940-ee3594e77dea": {
+    "url": "db://assets/Prefab",
+    "value": {}
+  },
+  "a689fc2f-5738-4130-879e-0564a351d763": {
+    "url": "db://assets/Prefab/GameController.prefab",
+    "value": {
+      "depends": []
+    }
+  },
+  "57e46702-6ad3-42e4-a93f-f4c91302026d": {
+    "url": "db://assets/Prefab/ButtonValue.prefab",
+    "value": {}
+  },
+  "324e3d69-e5c7-4c09-b4b5-e9de0fb2706a": {
+    "url": "db://assets/Image",
+    "value": {}
+  },
+  "05b63404-94f6-4741-b30d-6ab73cb4cd9e": {
+    "url": "db://assets/Image/bgGame2.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "05b63404-94f6-4741-b30d-6ab73cb4cd9e@6c48a": {
+    "url": "db://assets/Image/bgGame2.jpg@6c48a",
+    "value": {
+      "depends": [
+        "05b63404-94f6-4741-b30d-6ab73cb4cd9e"
+      ]
+    }
+  },
+  "05b63404-94f6-4741-b30d-6ab73cb4cd9e@f9941": {
+    "url": "db://assets/Image/bgGame2.jpg@f9941",
+    "value": {
+      "depends": [
+        "05b63404-94f6-4741-b30d-6ab73cb4cd9e@6c48a"
+      ]
+    }
+  },
+  "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594": {
+    "url": "db://assets/Image/backgroundSudoku.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594@6c48a": {
+    "url": "db://assets/Image/backgroundSudoku.png@6c48a",
+    "value": {
+      "depends": [
+        "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594"
+      ]
+    }
+  },
+  "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594@f9941": {
+    "url": "db://assets/Image/backgroundSudoku.png@f9941",
+    "value": {
+      "depends": [
+        "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594@6c48a"
+      ]
+    }
+  },
+  "4b0c4182-0852-4146-b948-3472f36b73f0": {
+    "url": "db://assets/Script/GameView.ts",
+    "value": {}
+  },
+  "6f74e930-8c5c-4665-a209-3b8efc0894b1": {
+    "url": "db://assets/Image/ValueBoard.png",
+    "value": {}
+  },
+  "6f74e930-8c5c-4665-a209-3b8efc0894b1@6c48a": {
+    "url": "db://assets/Image/ValueBoard.png@6c48a",
+    "value": {
+      "depends": [
+        "6f74e930-8c5c-4665-a209-3b8efc0894b1"
+      ]
+    }
+  },
+  "6f74e930-8c5c-4665-a209-3b8efc0894b1@f9941": {
+    "url": "db://assets/Image/ValueBoard.png@f9941",
+    "value": {
+      "depends": [
+        "6f74e930-8c5c-4665-a209-3b8efc0894b1@6c48a"
+      ]
+    }
+  },
+  "1337b7fe-3c80-460f-8928-fbb86b035231": {
+    "url": "db://assets/Image/ValueBoard.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1337b7fe-3c80-460f-8928-fbb86b035231@6c48a": {
+    "url": "db://assets/Image/ValueBoard.png@6c48a",
+    "value": {
+      "depends": [
+        "1337b7fe-3c80-460f-8928-fbb86b035231"
+      ]
+    }
+  },
+  "1337b7fe-3c80-460f-8928-fbb86b035231@f9941": {
+    "url": "db://assets/Image/ValueBoard.png@f9941",
+    "value": {
+      "depends": [
+        "1337b7fe-3c80-460f-8928-fbb86b035231@6c48a"
+      ]
+    }
+  },
+  "e214d11b-2ca1-453c-9452-1738b805e26d": {
+    "url": "db://assets/Scene/GameBegin.scene",
+    "value": {}
+  },
+  "e59bcf15-2658-4816-bedf-dc52c37aaecc": {
+    "url": "db://assets/Image/bgSudokupicture.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "e59bcf15-2658-4816-bedf-dc52c37aaecc@6c48a": {
+    "url": "db://assets/Image/bgSudokupicture.jpg@6c48a",
+    "value": {
+      "depends": [
+        "e59bcf15-2658-4816-bedf-dc52c37aaecc"
+      ]
+    }
+  },
+  "e59bcf15-2658-4816-bedf-dc52c37aaecc@f9941": {
+    "url": "db://assets/Image/bgSudokupicture.jpg@f9941",
+    "value": {
+      "depends": [
+        "e59bcf15-2658-4816-bedf-dc52c37aaecc@6c48a"
+      ]
+    }
+  },
+  "7fff254f-6e0e-4d0d-8096-c26894ee03ce": {
+    "url": "db://assets/Music Game",
+    "value": {}
+  },
+  "5bb18c94-25c6-459f-87ed-3911d6e431f7": {
+    "url": "db://assets/Music Game/SudoKuBackgroundMusic.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfd20b41-5424-4151-86ec-41735fd09e51": {
+    "url": "db://assets/Music Game/selectNode.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "a106f31d-da27-4c2c-9819-b07178a44960": {
+    "url": "db://assets/Music Game/LoseSudoku.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "400bb74d-2e3d-43b9-981a-1edf2a677b76": {
+    "url": "db://assets/Image/BgWhite.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "400bb74d-2e3d-43b9-981a-1edf2a677b76@6c48a": {
+    "url": "db://assets/Image/BgWhite.png@6c48a",
+    "value": {
+      "depends": [
+        "400bb74d-2e3d-43b9-981a-1edf2a677b76"
+      ]
+    }
+  },
+  "400bb74d-2e3d-43b9-981a-1edf2a677b76@f9941": {
+    "url": "db://assets/Image/BgWhite.png@f9941",
+    "value": {
+      "depends": [
+        "400bb74d-2e3d-43b9-981a-1edf2a677b76@6c48a"
+      ]
+    }
+  },
+  "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6": {
+    "url": "db://assets/Image/setting.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6@6c48a": {
+    "url": "db://assets/Image/setting.png@6c48a",
+    "value": {
+      "depends": [
+        "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6"
+      ]
+    }
+  },
+  "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6@f9941": {
+    "url": "db://assets/Image/setting.png@f9941",
+    "value": {
+      "depends": [
+        "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6@6c48a"
+      ]
+    }
+  },
+  "c501937f-b5e4-4414-a425-af64ff46a49b": {
+    "url": "db://assets/Music Game/game-start.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba7fde84-76a0-4cb0-b81a-d263e69a6f19": {
+    "url": "db://assets/Music Game/Tada-sound.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97": {
+    "url": "db://assets/Image/BgStartGame.jpg",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97@6c48a": {
+    "url": "db://assets/Image/BgStartGame.jpg@6c48a",
+    "value": {
+      "depends": [
+        "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97"
+      ]
+    }
+  },
+  "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97@f9941": {
+    "url": "db://assets/Image/BgStartGame.jpg@f9941",
+    "value": {
+      "depends": [
+        "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97@6c48a"
+      ]
+    }
+  },
+  "c7997389-9047-49e2-882a-ec267717f712": {
+    "url": "db://assets/Prefab/frameNode.prefab",
+    "value": {}
+  },
+  "c1220c61-0479-4820-83eb-569d92408b5c": {
+    "url": "db://assets/Prefab/frameNode.prefab",
+    "value": {}
+  },
+  "a8b5000d-41a3-4b1c-83fe-f48e61f3a22f": {
+    "url": "db://assets/Prefab/frameNode.prefab",
+    "value": {
+      "depends": [
+        "400bb74d-2e3d-43b9-981a-1edf2a677b76@f9941"
+      ]
+    }
+  },
+  "898c6154-5bea-4c1f-97b1-3dc81a41b512": {
+    "url": "db://assets/Prefab/frameNodeNum.prefab",
+    "value": {
+      "depends": [
+        "400bb74d-2e3d-43b9-981a-1edf2a677b76@f9941"
+      ]
+    }
+  },
+  "2abec6f2-b1a6-4369-8964-1a1f0fed7b9f": {
+    "url": "db://assets/Scene/Menu.scene",
+    "value": {
+      "depends": [
+        "2abec6f2-b1a6-4369-8964-1a1f0fed7b9f",
+        "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7a0b3be1-c66e-4076-a45e-c23c698b5c26@f9941",
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@f9941",
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@f9941",
+        "5bb18c94-25c6-459f-87ed-3911d6e431f7"
+      ]
+    }
+  },
+  "fc907bf6-fb26-4808-a2df-25686bf270b8": {
+    "url": "db://assets/Scene/Level.scene",
+    "value": {}
+  },
+  "2a0d862b-9ca4-472a-81c9-4c93cdc09e40": {
+    "url": "db://assets/Script/GameModel.ts",
+    "value": {}
+  },
+  "fc389a6f-2ef4-4d79-8334-4e27abd6dc1a": {
+    "url": "db://assets/Script/MenuModel.ts",
+    "value": {}
+  },
+  "68845b5e-a4b6-42d8-99b4-21a5a450552d": {
+    "url": "db://assets/Script/MenuView.ts",
+    "value": {}
+  },
+  "22ebcf80-234a-47b1-acc4-e85a83762a94": {
+    "url": "db://assets/Script/MenuController.ts",
+    "value": {}
+  },
+  "f9d81f94-f2a5-4b53-9e3d-fb368298d8fc": {
+    "url": "db://assets/Script/folder",
+    "value": {}
+  },
+  "0beb1981-2bc0-405a-9e2a-4fd1ac08b992": {
+    "url": "db://assets/Script/LevelMenu.ts",
+    "value": {}
+  },
+  "0bf798f7-3db8-4eb3-892e-50e988922ad4": {
+    "url": "db://assets/Script/LevelModel.ts",
+    "value": {}
+  },
+  "10dad279-6843-46de-85e9-af222ceaa8f4": {
+    "url": "db://assets/Script/LevelController.ts",
+    "value": {}
+  },
+  "7ae62797-4809-4854-8b57-6e8f80ebc50a": {
+    "url": "db://assets/Script/LevelView.ts",
+    "value": {}
+  },
+  "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe": {
+    "url": "db://assets/Image/audio-speaker-on.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@6c48a": {
+    "url": "db://assets/Image/audio-speaker-on.png@6c48a",
+    "value": {
+      "depends": [
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe"
+      ]
+    }
+  },
+  "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@f9941": {
+    "url": "db://assets/Image/audio-speaker-on.png@f9941",
+    "value": {
+      "depends": [
+        "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@6c48a"
+      ]
+    }
+  },
+  "7a0b3be1-c66e-4076-a45e-c23c698b5c26": {
+    "url": "db://assets/Image/mute.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7a0b3be1-c66e-4076-a45e-c23c698b5c26@6c48a": {
+    "url": "db://assets/Image/mute.png@6c48a",
+    "value": {
+      "depends": [
+        "7a0b3be1-c66e-4076-a45e-c23c698b5c26"
+      ]
+    }
+  },
+  "7a0b3be1-c66e-4076-a45e-c23c698b5c26@f9941": {
+    "url": "db://assets/Image/mute.png@f9941",
+    "value": {
+      "depends": [
+        "7a0b3be1-c66e-4076-a45e-c23c698b5c26@6c48a"
+      ]
+    }
+  },
+  "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592": {
+    "url": "db://assets/Script/StoredPersistNode.ts",
+    "value": {}
+  }
+}

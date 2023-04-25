@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "audio-speaker-on",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 28,
+      "width": 512,
+      "height": 456
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 512
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -256,
+        -228,
+        0,
+        256,
+        -228,
+        0,
+        -256,
+        228,
+        0,
+        256,
+        228,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        484,
+        512,
+        484,
+        0,
+        28,
+        512,
+        28
+      ],
+      "nuv": [
+        0,
+        0.0546875,
+        1,
+        0.0546875,
+        0,
+        0.9453125,
+        1,
+        0.9453125
+      ],
+      "minPos": {
+        "x": -256,
+        "y": -228,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 256,
+        "y": 228,
+        "z": 0
+      }
+    },
+    "texture": "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

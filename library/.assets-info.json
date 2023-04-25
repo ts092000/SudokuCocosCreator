@@ -1,0 +1,434 @@
+{
+  "D:\\gameCocos\\SudokuMain2\\assets\\Scene.meta": {
+    "time": 1679390293255.5618
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Scene": {
+    "time": 1679973714570.556,
+    "uuid": "6a36e213-fff7-4bc8-a52c-38464eac787b",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Scene\\MainGame.scene.meta": {
+    "time": 1679390298597.548
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Scene\\MainGame.scene": {
+    "time": 1681801967124.6465,
+    "uuid": "9a5bce71-9ae1-4c17-8bed-eb896cfc849c",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script.meta": {
+    "time": 1679390372782.712
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script": {
+    "time": 1681789174431.4536,
+    "uuid": "6670973e-396b-47a7-89b8-98c30e0652eb",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script\\GameController.ts.meta": {
+    "time": 1679390390353.76
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script\\GameController.ts": {
+    "time": 1681802162444.0725,
+    "uuid": "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab.meta": {
+    "time": 1679455521809.1245
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab": {
+    "time": 1680677564460.1477,
+    "uuid": "8a109712-9a75-43bd-b940-ee3594e77dea",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\GameController.prefab.meta": {
+    "time": 1679455526492.3096
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\GameController.prefab": {
+    "time": 1679455526487.3184,
+    "uuid": "a689fc2f-5738-4130-879e-0564a351d763",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image.meta": {
+    "time": 1679458311753.2595
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image": {
+    "time": 1679984261313.5269,
+    "uuid": "324e3d69-e5c7-4c09-b4b5-e9de0fb2706a",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\bgGame2.jpg.meta": {
+    "time": 1679297705534.5464
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\bgGame2.jpg": {
+    "time": 1679297683026.0242,
+    "uuid": "05b63404-94f6-4741-b30d-6ab73cb4cd9e",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\backgroundSudoku.png.meta": {
+    "time": 1679293723965.648
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\backgroundSudoku.png": {
+    "time": 1679293670557.782,
+    "uuid": "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script\\GameView.ts.meta": {
+    "time": 1679541303117.3943
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Script\\GameView.ts": {
+    "time": 1680021289812.8943,
+    "uuid": "4b0c4182-0852-4146-b948-3472f36b73f0",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\ValueBoard.png.meta": {
+    "time": 1679547279444.479
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\ValueBoard.png": {
+    "time": 1679547265995.5383,
+    "uuid": "1337b7fe-3c80-460f-8928-fbb86b035231",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\bgSudokupicture.jpg.meta": {
+    "time": 1679566286515.9768
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\bgSudokupicture.jpg": {
+    "time": 1496041700000,
+    "uuid": "e59bcf15-2658-4816-bedf-dc52c37aaecc",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game.meta": {
+    "time": 1679632047886.4363
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game": {
+    "time": 1679975582745.2285,
+    "uuid": "7fff254f-6e0e-4d0d-8096-c26894ee03ce",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\SudoKuBackgroundMusic.mp3.meta": {
+    "time": 1679632058124.7993
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\SudoKuBackgroundMusic.mp3": {
+    "time": 1679631846904.5742,
+    "uuid": "5bb18c94-25c6-459f-87ed-3911d6e431f7",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\selectNode.mp3.meta": {
+    "time": 1678083114113.9465
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\selectNode.mp3": {
+    "time": 1677210052304.5918,
+    "uuid": "bfd20b41-5424-4151-86ec-41735fd09e51",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\LoseSudoku.mp3.meta": {
+    "time": 1679640176191.8213
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\LoseSudoku.mp3": {
+    "time": 1679640147199.212,
+    "uuid": "a106f31d-da27-4c2c-9819-b07178a44960",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\BgWhite.png.meta": {
+    "time": 1679939909353.2449
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\BgWhite.png": {
+    "time": 1679939895646.8345,
+    "uuid": "400bb74d-2e3d-43b9-981a-1edf2a677b76",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\setting.png.meta": {
+    "time": 1679974314189.4807
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\setting.png": {
+    "time": 1679974276046.3257,
+    "uuid": "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\game-start.mp3.meta": {
+    "time": 1679975002012.3557
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\game-start.mp3": {
+    "time": 1679974976912.446,
+    "uuid": "c501937f-b5e4-4414-a425-af64ff46a49b",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\Tada-sound.mp3.meta": {
+    "time": 1679975582793.0999
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Music Game\\Tada-sound.mp3": {
+    "time": 1519880158000,
+    "uuid": "ba7fde84-76a0-4cb0-b81a-d263e69a6f19",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\BgStartGame.jpg.meta": {
+    "time": 1679984261563.464
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Image\\BgStartGame.jpg": {
+    "time": 1679984251447.5027,
+    "uuid": "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\frameNode.prefab.meta": {
+    "time": 1680083676199.5469
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\frameNode.prefab": {
+    "time": 1680677163168.2737,
+    "uuid": "a8b5000d-41a3-4b1c-83fe-f48e61f3a22f",
+    "missing": false
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\frameNodeNum.prefab.meta": {
+    "time": 1680677564476.1045
+  },
+  "D:\\gameCocos\\SudokuMain2\\assets\\Prefab\\frameNodeNum.prefab": {
+    "time": 1680677574007.4104,
+    "uuid": "898c6154-5bea-4c1f-97b1-3dc81a41b512",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image": {
+    "time": 1681984579997.6099,
+    "uuid": "324e3d69-e5c7-4c09-b4b5-e9de0fb2706a",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game": {
+    "time": 1681977232078.1064,
+    "uuid": "7fff254f-6e0e-4d0d-8096-c26894ee03ce",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab": {
+    "time": 1681977232204.6692,
+    "uuid": "8a109712-9a75-43bd-b940-ee3594e77dea",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene": {
+    "time": 1681983925568.3013,
+    "uuid": "6a36e213-fff7-4bc8-a52c-38464eac787b",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script": {
+    "time": 1682061169004.7715,
+    "uuid": "6670973e-396b-47a7-89b8-98c30e0652eb",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameController.ts": {
+    "time": 1682394276812.0527,
+    "uuid": "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameView.ts": {
+    "time": 1682319529822.663,
+    "uuid": "4b0c4182-0852-4146-b948-3472f36b73f0",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image.meta": {
+    "time": 1681977231523.354
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game.meta": {
+    "time": 1681977231543.2905
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab.meta": {
+    "time": 1681977231561.227
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene.meta": {
+    "time": 1681977231580.6843
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script.meta": {
+    "time": 1681977231598.6204
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameController.ts.meta": {
+    "time": 1681977232306.9211
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameView.ts.meta": {
+    "time": 1681977232342.796
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\backgroundSudoku.png": {
+    "time": 1681977231621.5437,
+    "uuid": "f7cb13d2-c60a-440b-bb7d-9d1e2e3ed594",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\bgGame2.jpg": {
+    "time": 1681977231658.4263,
+    "uuid": "05b63404-94f6-4741-b30d-6ab73cb4cd9e",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\BgStartGame.jpg": {
+    "time": 1681977231693.8196,
+    "uuid": "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\bgSudokupicture.jpg": {
+    "time": 1681977231739.665,
+    "uuid": "e59bcf15-2658-4816-bedf-dc52c37aaecc",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\BgWhite.png": {
+    "time": 1681977231775.5479,
+    "uuid": "400bb74d-2e3d-43b9-981a-1edf2a677b76",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\setting.png": {
+    "time": 1681977231811.606,
+    "uuid": "4ba7fd0a-23c5-4cc8-829c-a691cdfb6ee6",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\ValueBoard.png": {
+    "time": 1681977231848.301,
+    "uuid": "1337b7fe-3c80-460f-8928-fbb86b035231",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\game-start.mp3": {
+    "time": 1681977231890.7817,
+    "uuid": "c501937f-b5e4-4414-a425-af64ff46a49b",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\LoseSudoku.mp3": {
+    "time": 1681977231926.6082,
+    "uuid": "a106f31d-da27-4c2c-9819-b07178a44960",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\selectNode.mp3": {
+    "time": 1681977231962.4954,
+    "uuid": "bfd20b41-5424-4151-86ec-41735fd09e51",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\SudoKuBackgroundMusic.mp3": {
+    "time": 1681977232034.7698,
+    "uuid": "5bb18c94-25c6-459f-87ed-3911d6e431f7",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\Tada-sound.mp3": {
+    "time": 1681977232072.6511,
+    "uuid": "ba7fde84-76a0-4cb0-b81a-d263e69a6f19",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\frameNode.prefab": {
+    "time": 1681977232117.4404,
+    "uuid": "a8b5000d-41a3-4b1c-83fe-f48e61f3a22f",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\frameNodeNum.prefab": {
+    "time": 1681977232158.3088,
+    "uuid": "898c6154-5bea-4c1f-97b1-3dc81a41b512",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\GameController.prefab": {
+    "time": 1681977232199.6865,
+    "uuid": "a689fc2f-5738-4130-879e-0564a351d763",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\MainGame.scene": {
+    "time": 1682393484837.4705,
+    "uuid": "9a5bce71-9ae1-4c17-8bed-eb896cfc849c",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\BgStartGame.jpg.meta": {
+    "time": 1681977231713.752
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\BgWhite.png.meta": {
+    "time": 1681977231794.9927
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\bgGame2.jpg.meta": {
+    "time": 1681977231677.8723
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\backgroundSudoku.png.meta": {
+    "time": 1681977231641.4773
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\game-start.mp3.meta": {
+    "time": 1681977231909.6648
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\LoseSudoku.mp3.meta": {
+    "time": 1681977231946.5425
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\ValueBoard.png.meta": {
+    "time": 1681977231868.299
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\selectNode.mp3.meta": {
+    "time": 1681977231980.9497
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\Tada-sound.mp3.meta": {
+    "time": 1681977232092.0623
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Music Game\\SudoKuBackgroundMusic.mp3.meta": {
+    "time": 1681977232055.3772
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\setting.png.meta": {
+    "time": 1681977231831.5952
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\frameNode.prefab.meta": {
+    "time": 1681977232138.3757
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\bgSudokupicture.jpg.meta": {
+    "time": 1681977231759.5984
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\GameController.prefab.meta": {
+    "time": 1681977232219.6194
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Prefab\\frameNodeNum.prefab.meta": {
+    "time": 1681977232178.7566
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\MainGame.scene.meta": {
+    "time": 1681977232266.9785
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Menu.scene.meta": {
+    "time": 1681982115866.9119
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Menu.scene": {
+    "time": 1682319557080.0215,
+    "uuid": "2abec6f2-b1a6-4369-8964-1a1f0fed7b9f",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameModel.ts.meta": {
+    "time": 1681982165545.358
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameModel.ts": {
+    "time": 1681982165535.521,
+    "uuid": "2a0d862b-9ca4-472a-81c9-4c93cdc09e40",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuModel.ts.meta": {
+    "time": 1681982177779.7686
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuModel.ts": {
+    "time": 1681982177771.1392,
+    "uuid": "fc389a6f-2ef4-4d79-8334-4e27abd6dc1a",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuView.ts.meta": {
+    "time": 1681982189805.9922
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuView.ts": {
+    "time": 1681985666278.5156,
+    "uuid": "68845b5e-a4b6-42d8-99b4-21a5a450552d",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuController.ts.meta": {
+    "time": 1681982201637.6616
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuController.ts": {
+    "time": 1682320994664.0461,
+    "uuid": "22ebcf80-234a-47b1-acc4-e85a83762a94",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\audio-speaker-on.png.meta": {
+    "time": 1680010283610.479
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\audio-speaker-on.png": {
+    "time": 1680007679724.4434,
+    "uuid": "cc0edfb9-2812-443e-a5fa-a7b5ced2acfe",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\mute.png.meta": {
+    "time": 1680010283625.6582
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Image\\mute.png": {
+    "time": 1680007632236.6694,
+    "uuid": "7a0b3be1-c66e-4076-a45e-c23c698b5c26",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\StoredPersistNode.ts.meta": {
+    "time": 1682061169011.7566
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\StoredPersistNode.ts": {
+    "time": 1682320211516.213,
+    "uuid": "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592",
+    "missing": false
+  }
+}
