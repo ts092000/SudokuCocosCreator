@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 9906.028000116348,
+      "mTimestamp": 9227.172400012612,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 15970.294700145721,
+      "mTimestamp": 4058406.3893000036,
       "chunkId": "0a9720cd6802460e9ee754bdc90c884642eb8e69",
       "imports": [
         {
@@ -920,7 +920,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1682394314021,
+      "mTimestamp": 1682562851417,
       "chunkId": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b",
       "imports": [],
       "type": "esm",
@@ -1217,7 +1217,7 @@
       ]
     },
     "cce:/internal/ml/cjs-loader.mjs": {
-      "mTimestamp": 1682394314021,
+      "mTimestamp": 1682562851417,
       "chunkId": "e22b6f02adf5d686a7ebd142d6b23614b189f373",
       "imports": [],
       "type": "esm",
@@ -1225,10 +1225,10 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts": {
       "mTimestamp": {
-        "mtime": 1682394276812.0527,
+        "mtime": 1682565336733.9297,
         "uuid": "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99"
       },
-      "chunkId": "c31b71311795c71d92584a308e58d414cc221003",
+      "chunkId": "2866808bb997cf95556b73654b2675f18ee32f98",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -2078,10 +2078,10 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts": {
       "mTimestamp": {
-        "mtime": 1682320211516.213,
+        "mtime": 1682566904790.6917,
         "uuid": "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592"
       },
-      "chunkId": "022ab65d0146ab6cf65ec49025943e83c89adbe8",
+      "chunkId": "23c7c7f26487ce6f9e195df4ec3b79b298243813",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",

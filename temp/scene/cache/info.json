@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+        "version": "Windows 10 Home Single Language"
+    },
+    "sceneListMap": {
+        "9a5bce71-9ae1-4c17-8bed-eb896cfc849c": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\MainGame.scene"
+    },
+    "deviceMd5": "885edb8ea158749e7adde5b2995c97d7"
+}

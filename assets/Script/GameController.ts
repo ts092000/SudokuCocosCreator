@@ -131,14 +131,14 @@ export class GameController extends Component {
     
     update(){
         if(this.difficultyLevel == 0.2){
-            this.gameView.BestTimeLevel.string = 'Độ Khó: DỄ'
-            this.gameView.BestTime.string = 'Thời gian nhanh nhất : ' +(Math.min(...this.timeBestArr));
+            this.gameView.BestTimeLevel.string = 'Độ Khó: Dễ'
+            this.gameView.BestTime.string = 'Thời gian nhanh nhất : ' +(Math.min(...this.timeBestArr)) + ' giây';
         } else if(this.difficultyLevel == 0.5){
-            this.gameView.BestTimeLevel.string = 'Độ Khó: TRUNG BÌNH'
-            this.gameView.BestTime.string = 'Thời gian nhanh nhất: ' +(Math.min(...this.timeBestArr1));
+            this.gameView.BestTimeLevel.string = 'Độ Khó: Trung Bình'
+            this.gameView.BestTime.string = 'Thời gian nhanh nhất: ' +(Math.min(...this.timeBestArr1)) + ' giây';
         } else if(this.difficultyLevel == 0.8){
-            this.gameView.BestTimeLevel.string = 'Độ Khó: KHÓ'
-            this.gameView.BestTime.string = 'Thời gian nhanh nhất: ' +(Math.min(...this.timeBestArr2));
+            this.gameView.BestTimeLevel.string = 'Độ Khó: Khó'
+            this.gameView.BestTime.string = 'Thời gian nhanh nhất: ' +(Math.min(...this.timeBestArr2)) + ' giây';
         }
 
         this.gameView.AudioMute.node.on(Button.EventType.CLICK, this.btnMute, this);
@@ -329,7 +329,7 @@ export class GameController extends Component {
                             
                                 if (emtyNode === 0){
                                     this.unschedule(this.updateTimer);
-                                    this.gameView.TimeFinish.string = this.timeElapsed.toString() + " giây";
+                                    this.gameView.TimeFinish.string = "Bạn đã hoàn thành trong màn chơi trong " + this.timeElapsed.toString() + " giây";
                                     this.gameView.AudioBg.pause();
                                     this.gameView.WinAudio.play();
                                     this.gameView.SelectNode.volume = 0;

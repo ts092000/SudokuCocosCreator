@@ -3,13 +3,13 @@
     "cce:/internal/x/cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/0a/0a9720cd6802460e9ee754bdc90c884642eb8e69.js",
     "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/ce/cefe22d8b25680a2bc4b5b1af21d70d430b39051.js",
-    "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts": "./chunks/c3/c31b71311795c71d92584a308e58d414cc221003.js",
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameModel.ts": "./chunks/91/91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js",
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameView.ts": "./chunks/c0/c04ea474584bfbe96be77d96e4b6916d840092d1.js",
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuController.ts": "./chunks/ab/abd48752cf1aa387cc1e4dfd8cc5908daa2c13a4.js",
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuModel.ts": "./chunks/cb/cb259c2fffe3b2e3337e84324c06205bf5f21e97.js",
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuView.ts": "./chunks/6f/6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js",
-    "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts": "./chunks/02/022ab65d0146ab6cf65ec49025943e83c89adbe8.js"
+    "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts": "./chunks/28/2866808bb997cf95556b73654b2675f18ee32f98.js",
+    "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts": "./chunks/23/23c7c7f26487ce6f9e195df4ec3b79b298243813.js"
   },
   "scopes": {
     "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js": {
@@ -45,15 +45,15 @@
     },
     "./chunks/0a/0a9720cd6802460e9ee754bdc90c884642eb8e69.js": {
       "__unresolved_0": "./chunks/ce/cefe22d8b25680a2bc4b5b1af21d70d430b39051.js",
-      "__unresolved_1": "./chunks/c3/c31b71311795c71d92584a308e58d414cc221003.js",
+      "__unresolved_1": "./chunks/28/2866808bb997cf95556b73654b2675f18ee32f98.js",
       "__unresolved_2": "./chunks/91/91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js",
       "__unresolved_3": "./chunks/c0/c04ea474584bfbe96be77d96e4b6916d840092d1.js",
       "__unresolved_4": "./chunks/ab/abd48752cf1aa387cc1e4dfd8cc5908daa2c13a4.js",
       "__unresolved_5": "./chunks/cb/cb259c2fffe3b2e3337e84324c06205bf5f21e97.js",
       "__unresolved_6": "./chunks/6f/6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js",
-      "__unresolved_7": "./chunks/02/022ab65d0146ab6cf65ec49025943e83c89adbe8.js"
+      "__unresolved_7": "./chunks/23/23c7c7f26487ce6f9e195df4ec3b79b298243813.js"
     },
-    "./chunks/02/022ab65d0146ab6cf65ec49025943e83c89adbe8.js": {
+    "./chunks/23/23c7c7f26487ce6f9e195df4ec3b79b298243813.js": {
       "@dattenlagiday/oc_gamecenter_sdk_pkg": "./chunks/4d/4d1da9bcd4c7cad02e0ed068454513dee0599e31.js",
       "__unresolved_0": "./chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
@@ -77,7 +77,7 @@
       "__unresolved_0": "./chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js",
       "__unresolved_1": "./chunks/cb/cb259c2fffe3b2e3337e84324c06205bf5f21e97.js",
       "__unresolved_2": "./chunks/6f/6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js",
-      "__unresolved_3": "./chunks/02/022ab65d0146ab6cf65ec49025943e83c89adbe8.js",
+      "__unresolved_3": "./chunks/23/23c7c7f26487ce6f9e195df4ec3b79b298243813.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },
     "./chunks/c0/c04ea474584bfbe96be77d96e4b6916d840092d1.js": {
@@ -86,11 +86,11 @@
     "./chunks/91/91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js": {
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },
-    "./chunks/c3/c31b71311795c71d92584a308e58d414cc221003.js": {
+    "./chunks/28/2866808bb997cf95556b73654b2675f18ee32f98.js": {
       "@algorithm.ts/sudoku": "./chunks/74/74e71275f99c8a01314209283e8430ed34d1ccdf.js",
       "__unresolved_0": "./chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js",
       "__unresolved_1": "./chunks/c0/c04ea474584bfbe96be77d96e4b6916d840092d1.js",
-      "__unresolved_2": "./chunks/02/022ab65d0146ab6cf65ec49025943e83c89adbe8.js",
+      "__unresolved_2": "./chunks/23/23c7c7f26487ce6f9e195df4ec3b79b298243813.js",
       "cc": "./chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js"
     },
     "./chunks/74/74e71275f99c8a01314209283e8430ed34d1ccdf.js": {
