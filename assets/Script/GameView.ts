@@ -82,6 +82,9 @@ export class GameView extends Component {
     @property({type:AudioSource})
     private winAudio: AudioSource;
 
+    @property({type:AudioSource})
+    private startAudio: AudioSource;
+
     public get BgBoardNode() : Node {
         return this.bgBoardNode
     }
@@ -264,5 +267,13 @@ export class GameView extends Component {
 
     public set WinAudio(winAudio : AudioSource) {
         this.winAudio = winAudio;
+    }
+
+    public get StartAudio() : AudioSource {
+        return this.startAudio
+    }
+
+    public set StartAudio(startAudio : AudioSource) {
+        this.startAudio = startAudio;
     }
 }

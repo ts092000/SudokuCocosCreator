@@ -148,11 +148,12 @@ export class GameController extends Component {
     //levelFunction
     easyLevelGame() {
         this.difficultyLevel = 0.2;
+        // this.gameView.StartAudio.play();
         this.createPuzzleBoard();
         this.gameView.LevelPanel.active = false;
         this.bgNodeValue.active = true;
         this.schedule(this.updateTimer, 1);
-        this.gameView.LevelLabel.string = "Độ khó : DỄ"
+        this.gameView.LevelLabel.string = "Độ khó : Dễ"
         this.gameView.NewGameBtn.node.active = true;
         this.gameView.PlayerFault.node.active = true;
         this.gameView.BgBoardNode.active = true;
@@ -160,11 +161,12 @@ export class GameController extends Component {
 
     mediumLevelGame() {
         this.difficultyLevel = 0.5;
+        // this.gameView.StartAudio.play();
         this.createPuzzleBoard();
         this.gameView.LevelPanel.active = false;
         this.bgNodeValue.active = true;
         this.schedule(this.updateTimer, 1);
-        this.gameView.LevelLabel.string = "Độ khó : TRUNG BÌNH"
+        this.gameView.LevelLabel.string = "Độ khó : Trung Bình"
         this.gameView.NewGameBtn.node.active = true;
         this.gameView.PlayerFault.node.active = true;
         this.gameView.BgBoardNode.active = true;
@@ -172,11 +174,12 @@ export class GameController extends Component {
 
     hardLevelGame() {
         this.difficultyLevel = 0.8;
+        // this.gameView.StartAudio.play();
         this.createPuzzleBoard();
         this.gameView.LevelPanel.active = false;
         this.bgNodeValue.active = true;
         this.schedule(this.updateTimer, 1); 
-        this.gameView.LevelLabel.string = "Độ khó : KHÓ"
+        this.gameView.LevelLabel.string = "Độ khó : Khó"
         this.gameView.NewGameBtn.node.active = true;
         this.gameView.PlayerFault.node.active = true;
         this.gameView.BgBoardNode.active = true;
@@ -315,17 +318,14 @@ export class GameController extends Component {
                         const position = i * 9 + j;
                         const solutionValue = this.solutionGame[position];
                         const isCorrect = selectedValue === solutionValue;
-                        console.log(isCorrect);
                     
                         const labelBlockSelect = this.selectedNode.getComponent(Label);
 
-                        console.log(nodeCheck[i][j].filled);
                         if (!nodeCheck[i][j].filled) {
                             if (isCorrect == true) {
                                 labelBlockSelect.color = Color.BLUE;
                                 emtyNode--;
                                 nodeCheck[i][j].filled = true;
-                                console.log(emtyNode);
                             
                                 if (emtyNode === 0){
                                     this.unschedule(this.updateTimer);
@@ -355,7 +355,6 @@ export class GameController extends Component {
                                 }         
                             } 
                             else if (isCorrect == false) {
-                                console.log(emtyNode);
                                 labelBlockSelect.color = Color.RED;
                                 this.redNumber++;
                                 this.gameView.PlayerFault.string = `Lỗi: ${this.redNumber}/3`
@@ -386,10 +385,8 @@ export class GameController extends Component {
                             }
                         }
                         else if (nodeCheck[i][j].filled && isCorrect == false) {
-                            console.log(isCorrect);
                             nodeCheck[i][j].filled = false;
                             emtyNode++;
-                            console.log(emtyNode);
                             labelBlockSelect.color = Color.RED;
                             this.redNumber++;
                             this.gameView.PlayerFault.string = `Lỗi: ${this.redNumber}/3`

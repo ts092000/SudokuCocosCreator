@@ -1,0 +1,440 @@
+5-5-2023 16:17:29-debug: =================================== build Task (web-desktop-004) Start ================================
+5-5-2023 16:17:29-debug: Build with Cocos Creator 3.7.2
+5-5-2023 16:17:29-debug: Start build task, options:{"name":"SudokuMain2","platform":"web-desktop","buildPath":"C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2","debug":false,"md5Cache":false,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":true},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"packAutoAtlas":true,"startScene":"2abec6f2-b1a6-4369-8964-1a1f0fed7b9f","outputName":"web-desktop-004","scenes":[{"url":"db://assets/Scene/MainGame.scene","uuid":"9a5bce71-9ae1-4c17-8bed-eb896cfc849c","inBundle":false},{"url":"db://assets/Scene/Menu.scene","uuid":"2abec6f2-b1a6-4369-8964-1a1f0fed7b9f","inBundle":false}],"web-desktop":[],"packages":{"web-desktop":{"useWebGPU":false,"resolution":{"designWidth":960,"designHeight":600},"__version__":"1.0.1"},"cocos-service":{"configID":"862e32","services":[{"service_id":"235","service_component_name":"service-analytics","builder":"C:\\Users\\ADMIN\\.CocosCreator\\.service\\analytics\\builder\\builder.js","enable":true,"params":{"app_id":"623224426","store_id":"H5"}}],"__version__":"3.0.6"}},"__version__":"1.3.4"}
+5-5-2023 16:17:29-debug: cocos-service:(onBeforeBuild) start...0%
+5-5-2023 16:17:29-debug: Process: heapTotal 233.91MB heapUsed 205.20MB rss 561.94MB
+5-5-2023 16:17:29-debug: // ---- build task cocos-service：onBeforeBuild ----
+5-5-2023 16:17:30-debug: // ---- build task cocos-service：onBeforeBuild ---- (1068ms)
+5-5-2023 16:17:30-debug: cocos-service:(onBeforeBuild) in 1068 ms1%
+5-5-2023 16:17:30-debug: scene:(onBeforeBuild) start...1%
+5-5-2023 16:17:30-debug: // ---- build task scene：onBeforeBuild ----
+5-5-2023 16:17:30-debug: Process: heapTotal 233.91MB heapUsed 201.80MB rss 560.54MB
+5-5-2023 16:17:30-debug: // ---- build task scene：onBeforeBuild ---- (58ms)
+5-5-2023 16:17:30-debug: scene:(onBeforeBuild) in 58 ms2%
+5-5-2023 16:17:30-debug: Start lock asset db...2%
+5-5-2023 16:17:30-log: Asset DB is paused with build!
+5-5-2023 16:17:30-debug: Query all assets info in project
+5-5-2023 16:17:30-debug: BuildAssetLibrary query-assets with assets 526
+5-5-2023 16:17:30-debug: init custom config: keepNodeUuid: false, useCache: true
+5-5-2023 16:17:30-debug:   Number of all scenes: 2
+5-5-2023 16:17:30-debug:   Number of all scripts: 8
+5-5-2023 16:17:30-debug:   Number of other assets: 377
+5-5-2023 16:17:30-debug: web-desktop:(onAfterInit) start...2%
+5-5-2023 16:17:30-debug: // ---- build task web-desktop：onAfterInit ----
+5-5-2023 16:17:30-debug: Process: heapTotal 233.91MB heapUsed 204.06MB rss 561.36MB
+5-5-2023 16:17:30-debug: // ---- build task web-desktop：onAfterInit ---- (1ms)
+5-5-2023 16:17:30-debug: cocos-service:(onAfterInit) start...3%
+5-5-2023 16:17:30-debug: // ---- build task cocos-service：onAfterInit ----
+5-5-2023 16:17:30-debug: web-desktop:(onAfterInit) in 1 ms3%
+5-5-2023 16:17:30-debug: Process: heapTotal 233.91MB heapUsed 204.18MB rss 561.48MB
+5-5-2023 16:17:30-debug: // ---- build task cocos-service：onAfterInit ---- (269ms)
+5-5-2023 16:17:30-debug: Reload project scripts start4%
+5-5-2023 16:17:30-debug: cocos-service:(onAfterInit) in 269 ms4%
+5-5-2023 16:17:30-debug: // ---- build task Reload project scripts ----
+5-5-2023 16:17:30-debug: Process: heapTotal 233.91MB heapUsed 204.47MB rss 561.88MB
+5-5-2023 16:17:30-debug: reload all scripts.
+5-5-2023 16:17:31-debug: Incremental keys: 
+5-5-2023 16:17:31-debug: Set detail map pack:///resolution-detail-map.json: {}
+5-5-2023 16:17:31-groupCollapsed: Invalidate all modules
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+5-5-2023 16:17:31-groupEnd: Invalidate all modules
+5-5-2023 16:17:31-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+5-5-2023 16:17:31-groupCollapsed: Imports all modules
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\0a\0a9720cd6802460e9ee754bdc90c884642eb8e69.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\0a\0a9720cd6802460e9ee754bdc90c884642eb8e69.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/0a/0a9720cd6802460e9ee754bdc90c884642eb8e69.js" loaded.
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\ce\cefe22d8b25680a2bc4b5b1af21d70d430b39051.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\ce\cefe22d8b25680a2bc4b5b1af21d70d430b39051.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Register DebugViewRuntimeControl
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/ce/cefe22d8b25680a2bc4b5b1af21d70d430b39051.js" loaded.
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\10\10b258d76582ac9d17de66244c9ed202c19dace4.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\10\10b258d76582ac9d17de66244c9ed202c19dace4.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\57\57324db1adbde7ade6cf29e0c39a05d5db1ec28f.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\57\57324db1adbde7ade6cf29e0c39a05d5db1ec28f.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\74\74e71275f99c8a01314209283e8430ed34d1ccdf.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\74\74e71275f99c8a01314209283e8430ed34d1ccdf.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\07\07055997586c42eab0e62fae9d525bf7f2bdf76c.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\07\07055997586c42eab0e62fae9d525bf7f2bdf76c.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\b6\b6df4a5a1dcd19f1032e9e4c8c4506b54c467514.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\b6\b6df4a5a1dcd19f1032e9e4c8c4506b54c467514.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\dc\dc48944c885f78f6dc436d30c1b9cb65aeefa30a.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\dc\dc48944c885f78f6dc436d30c1b9cb65aeefa30a.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\4d\4d1da9bcd4c7cad02e0ed068454513dee0599e31.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\4d\4d1da9bcd4c7cad02e0ed068454513dee0599e31.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\e2\e22b6f02adf5d686a7ebd142d6b23614b189f373.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\e2\e22b6f02adf5d686a7ebd142d6b23614b189f373.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\7e\7e04fd763f7c0946962819d069a8b133cdc87da2.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\7e\7e04fd763f7c0946962819d069a8b133cdc87da2.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/74/74e71275f99c8a01314209283e8430ed34d1ccdf.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/b6/b6df4a5a1dcd19f1032e9e4c8c4506b54c467514.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/dc/dc48944c885f78f6dc436d30c1b9cb65aeefa30a.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Register GameView
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/57/57324db1adbde7ade6cf29e0c39a05d5db1ec28f.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/7e/7e04fd763f7c0946962819d069a8b133cdc87da2.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/4d/4d1da9bcd4c7cad02e0ed068454513dee0599e31.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Register StoredPersistNode
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/07/07055997586c42eab0e62fae9d525bf7f2bdf76c.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Register GameController
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/10/10b258d76582ac9d17de66244c9ed202c19dace4.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/e2/e22b6f02adf5d686a7ebd142d6b23614b189f373.js" loaded.
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\91\91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\91\91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Register GameModel
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/91/91eeeae21a4b78118b5a0a14105e23d0775f3c9a.js" loaded.
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\74\7408237be197b4325c17e0a4959adf7e3bbfb04d.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\74\7408237be197b4325c17e0a4959adf7e3bbfb04d.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\cb\cb259c2fffe3b2e3337e84324c06205bf5f21e97.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\cb\cb259c2fffe3b2e3337e84324c06205bf5f21e97.js is not in module cache!
+5-5-2023 16:17:31-debug: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\6f\6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js resolved to C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\temp\programming\packer-driver\targets\editor\chunks\6f\6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js is not in module cache!
+5-5-2023 16:17:31-debug: [[Executor]] Register MenuModel
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/cb/cb259c2fffe3b2e3337e84324c06205bf5f21e97.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Register MenuView
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/6f/6fbf49b0d69b35f0d1a17b1fdd6c78db0ffd64c9.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/74/7408237be197b4325c17e0a4959adf7e3bbfb04d.js" loaded.
+5-5-2023 16:17:31-debug: [[Executor]] Module "pack:///chunks/0a/0a9720cd6802460e9ee754bdc90c884642eb8e69.js" loaded.
+5-5-2023 16:17:31-groupEnd: Imports all modules
+5-5-2023 16:17:31-debug: [[Executor]] Register MenuController
+5-5-2023 16:17:31-debug: // ---- build task Reload project scripts ---- (110ms)
+5-5-2023 16:17:31-debug: run build task Reload project scripts success in 110 ms √6%
+5-5-2023 16:17:31-debug: // ---- build task Query asset bundle ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.07MB heapUsed 204.41MB rss 565.16MB
+5-5-2023 16:17:31-debug: Query asset bundle start6%
+5-5-2023 16:17:31-debug: // ---- build task Query asset bundle ---- (51ms)
+5-5-2023 16:17:31-debug: run build task Query asset bundle success in 51 ms √7%
+5-5-2023 16:17:31-debug: Query and organize assets start7%
+5-5-2023 16:17:31-debug: // ---- build task Query and organize assets ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.07MB heapUsed 206.38MB rss 567.32MB
+5-5-2023 16:17:31-debug: init bundle assets
+5-5-2023 16:17:31-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-5-2023 16:17:31-debug: Number of scenes: 2
+5-5-2023 16:17:31-debug: Start sort share asset in bundle
+5-5-2023 16:17:31-debug: Number of assets: 58
+5-5-2023 16:17:31-debug: Number of asset bundle: 2
+5-5-2023 16:17:31-debug: // ---- build task Query and organize assets ---- (63ms)
+5-5-2023 16:17:31-debug: run build task Query and organize assets success in 63 ms √8%
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 207.95MB rss 565.56MB
+5-5-2023 16:17:31-debug: // ---- build task Organize scripts ----
+5-5-2023 16:17:31-debug: Organize scripts start8%
+5-5-2023 16:17:31-debug: sort script group...
+5-5-2023 16:17:31-debug: run build task Organize scripts success in 0 ms √9%
+5-5-2023 16:17:31-debug: // ---- build task Organize texture compression tasks ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 208.13MB rss 565.56MB
+5-5-2023 16:17:31-debug: Organize texture compression tasks start9%
+5-5-2023 16:17:31-debug: Number of image-compress task: 0
+5-5-2023 16:17:31-debug: // ---- build task Organize texture compression tasks ---- (46ms)
+5-5-2023 16:17:31-debug: run build task Organize texture compression tasks success in 46 ms √11%
+5-5-2023 16:17:31-debug: // ---- build task Group json ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 208.35MB rss 565.59MB
+5-5-2023 16:17:31-debug: Group json start11%
+5-5-2023 16:17:31-debug: Number of json group with bundle(internal): 1
+5-5-2023 16:17:31-debug: Start sort the json group of bundle(main)...
+5-5-2023 16:17:31-debug: Number of json group with bundle(main) 3
+5-5-2023 16:17:31-debug: Number of json group: 3
+5-5-2023 16:17:31-debug: // ---- build task Group json ---- (2ms)
+5-5-2023 16:17:31-debug: run build task Group json success in 2 ms √12%
+5-5-2023 16:17:31-debug: // ---- build task Merging Texture2D json ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 208.58MB rss 565.59MB
+5-5-2023 16:17:31-debug: Merging Texture2D json start12%
+5-5-2023 16:17:31-debug: // ---- build task Merging Texture2D json ---- (1ms)
+5-5-2023 16:17:31-debug: run build task Merging Texture2D json success in 1 ms √13%
+5-5-2023 16:17:31-debug: Sort import-map.json start13%
+5-5-2023 16:17:31-debug: // ---- build task Sort import-map.json ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 208.75MB rss 565.60MB
+5-5-2023 16:17:31-debug: // ---- build task Sort import-map.json ---- (1ms)
+5-5-2023 16:17:31-debug: run build task Sort import-map.json success in 1 ms √14%
+5-5-2023 16:17:31-debug: web-desktop:(onBeforeBuildAssets) start...14%
+5-5-2023 16:17:31-debug: // ---- build task web-desktop：onBeforeBuildAssets ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 208.94MB rss 565.59MB
+5-5-2023 16:17:31-debug: // ---- build task web-desktop：onBeforeBuildAssets ---- (1ms)
+5-5-2023 16:17:31-debug: web-desktop:(onBeforeBuildAssets) in 1 ms17%
+5-5-2023 16:17:31-debug: Build auto-atlas start17%
+5-5-2023 16:17:31-debug: // ---- build task Build auto-atlas ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 209.11MB rss 565.59MB
+5-5-2023 16:17:31-debug: Start collect pack info from bundleds
+5-5-2023 16:17:31-debug: // ---- build task Build auto-atlas ---- (1ms)
+5-5-2023 16:17:31-debug: run build task Build auto-atlas success in 1 ms √23%
+5-5-2023 16:17:31-debug: Compress Image start23%
+5-5-2023 16:17:31-debug: // ---- build task Compress Image ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.07MB heapUsed 203.45MB rss 565.43MB
+5-5-2023 16:17:31-debug: run build task Compress Image success in 0 ms √30%
+5-5-2023 16:17:31-debug: Copy the resource start30%
+5-5-2023 16:17:31-debug: Process: heapTotal 234.07MB heapUsed 203.61MB rss 565.43MB
+5-5-2023 16:17:31-debug: // ---- build task Copy the resource ----
+5-5-2023 16:17:31-group: Handle bundle internal
+5-5-2023 16:17:31-debug: Asset Bundle(internal) handle assets: 20
+5-5-2023 16:17:31-groupEnd: Handle bundle internal
+5-5-2023 16:17:31-group: Handle bundle main
+5-5-2023 16:17:31-debug: Asset Bundle(main) handle assets: 38
+5-5-2023 16:17:31-groupEnd: Handle bundle main
+5-5-2023 16:17:31-debug: // ---- build task Copy the resource ---- (33ms)
+5-5-2023 16:17:31-debug: run build task Copy the resource success in 33 ms √37%
+5-5-2023 16:17:31-debug: Build the grouped json and scatter files to the specified location start37%
+5-5-2023 16:17:31-debug: // ---- build task Build the grouped json and scatter files to the specified location ----
+5-5-2023 16:17:31-group: Build Json
+5-5-2023 16:17:31-group: Handle all json groups in bundle internal
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 206.16MB rss 566.30MB
+5-5-2023 16:17:31-group: handle json group
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-alpha-test-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-clear-stencil.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/default-spine-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-effect-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/missing-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-alpha-sep-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-base-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-gray-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-graphics-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-alpha-sep-material.mtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_materials/ui-sprite-material.mtl)})
+5-5-2023 16:17:31-debug: Json group(0846c28f0) compile success，json number: 6
+5-5-2023 16:17:31-groupEnd: handle json group
+5-5-2023 16:17:31-group: handle single json
+5-5-2023 16:17:31-groupEnd: handle single json
+5-5-2023 16:17:31-groupEnd: Handle all json groups in bundle internal
+5-5-2023 16:17:31-group: handle json group
+5-5-2023 16:17:31-group: Handle all json groups in bundle main
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/mute.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgWhite.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/ValueBoard.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/audio-speaker-on.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/backgroundSudoku.png)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgStartGame.jpg)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Music Game/SudoKuBackgroundMusic.mp3)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/mute.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/audio-speaker-on.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgStartGame.jpg/spriteFrame)})
+5-5-2023 16:17:31-debug: Json group(051412cf5) compile success，json number: 6
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/ValueBoard.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgWhite.png/spriteFrame)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Prefab/frameNodeNum.prefab)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Music Game/LoseSudoku.mp3)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Prefab/frameNode.prefab)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Music Game/Tada-sound.mp3)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Music Game/selectNode.mp3)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/backgroundSudoku.png/spriteFrame)})
+5-5-2023 16:17:31-debug: Json group(0beab2d52) compile success，json number: 6
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/mute.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgWhite.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_pressed.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/ValueBoard.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_normal.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_ui/default_btn_disabled.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/audio-speaker-on.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/backgroundSudoku.png/texture)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://assets/Image/BgStartGame.jpg/texture)})
+5-5-2023 16:17:31-groupEnd: handle json group
+5-5-2023 16:17:31-group: handle single json
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/physics/default-physics-material.pmtl)})
+5-5-2023 16:17:31-debug: getSerializedJSON: Use cache serialized JSON of asset ({asset(db://internal/default_renderpipeline/builtin-forward.rpp)})
+5-5-2023 16:17:31-groupEnd: handle single json
+5-5-2023 16:17:31-groupEnd: Handle all json groups in bundle main
+5-5-2023 16:17:31-groupEnd: Build Json
+5-5-2023 16:17:31-debug: // ---- build task Build the grouped json and scatter files to the specified location ---- (227ms)
+5-5-2023 16:17:31-debug: run build task Build the grouped json and scatter files to the specified location success in 227 ms √43%
+5-5-2023 16:17:31-debug: Build script start43%
+5-5-2023 16:17:31-debug: // ---- build task Build script ----
+5-5-2023 16:17:31-debug: Process: heapTotal 234.29MB heapUsed 207.41MB rss 566.51MB
+5-5-2023 16:17:38-debug: Build project script start...43%
+5-5-2023 16:17:38-debug: Process: heapTotal 287.53MB heapUsed 262.34MB rss 700.27MB
+5-5-2023 16:17:38-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+5-5-2023 16:17:39-log: [build-script]enter sub process 4620, C:\ProgramData\cocos\editors\Creator\3.7.2\CocosCreator.exe,C:\ProgramData\cocos\editors\Creator\3.7.2\resources\app.asar\builtin\builder\static\sub-process-index
+5-5-2023 16:17:42-log: [build-script]Create cjs interop url for 'file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/node_modules/@dattenlagiday/oc_gamecenter_sdk_pkg/index.js'
+5-5-2023 16:17:46-debug: excute-script over with build-script 8262ms
+5-5-2023 16:17:46-debug: Copy externalScripts success!
+5-5-2023 16:17:46-debug: Build project script in (8310 ms) √43%
+5-5-2023 16:17:46-debug: Build engine start...43%
+5-5-2023 16:17:46-debug: Process: heapTotal 226.93MB heapUsed 211.53MB rss 637.31MB
+5-5-2023 16:17:46-warn: Engine cache directory({link(C:\Users\ADMIN\AppData\Local\Temp\CocosCreator\3.7.2\builder\engine\bfd7aa8b4ff4ae6306e9c4e441bcb743)}) exists but has empty content. It's abnormal.
+5-5-2023 16:17:46-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+5-5-2023 16:17:47-log: [build-engine]enter sub process 4936, C:\ProgramData\cocos\editors\Creator\3.7.2\CocosCreator.exe,C:\ProgramData\cocos\editors\Creator\3.7.2\resources\app.asar\builtin\builder\static\sub-process-index
+5-5-2023 16:17:50-log: [build-engine]Build-engine options: {  "engine": "C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine",  "platform": "HTML5",  "moduleFormat": 2,  "compress": true,  "split": false,  "ammoJsWasm": "fallback",  "assetURLFormat": "runtime-resolved",  "noDeprecatedFeatures": false,  "engineName": "cocos-js",  "sourceMaps": false,  "features": [    "2d",    "animation",    "audio",    "base",    "dragon-bones",    "gfx-webgl",    "gfx-webgl2",    "intersection-2d",    "light-probe",    "particle-2d",    "physics-2d-box2d",    "profiler",    "spine",    "tiled-map",    "tween",    "ui",    "video",    "websocket",    "webview"  ],  "loose": true,  "mode": "BUILD",  "flags": {    "DEBUG": false,    "UI_GPU_DRIVEN": false  },  "name": "cocos-js",  "incremental": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\CocosCreator\\3.7.2\\builder\\engine\\bfd7aa8b4ff4ae6306e9c4e441bcb743.watch-files.json",  "out": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\CocosCreator\\3.7.2\\builder\\engine\\bfd7aa8b4ff4ae6306e9c4e441bcb743",  "buildTimeConstants": {    "HTML5": true,    "NATIVE": false,    "WECHAT": false,    "BAIDU": false,    "XIAOMI": false,    "ALIPAY": false,    "TAOBAO": false,    "TAOBAO_MINIGAME": false,    "BYTEDANCE": false,    "OPPO": false,    "VIVO": false,    "HUAWEI": false,    "COCOSPLAY": false,    "QTT": false,    "LINKSURE": false,    "EDITOR": false,    "PREVIEW": false,    "BUILD": true,    "TEST": false,    "DEBUG": false,    "SERVER_MODE": false,    "DEV": false,    "MINIGAME": false,    "RUNTIME_BASED": false,    "SUPPORT_JIT": true,    "JSB": false,    "NOT_PACK_PHYSX_LIBS": false,    "NET_MODE": 0,    "WEBGPU": false  },  "metaFile": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\CocosCreator\\3.7.2\\builder\\engine\\bfd7aa8b4ff4ae6306e9c4e441bcb743.meta\\meta.json"}
+5-5-2023 16:17:50-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = true;export const NATIVE = false;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = false;tryDefineGlobal('CC_JSB', false);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;
+5-5-2023 16:17:50-log: [build-engine]Module source "cc":export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\2d.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\sorting.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\animation.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\audio.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\base.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\dragon-bones.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\gfx-webgl.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\gfx-webgl2.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\intersection-2d.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\light-probe.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\particle-2d.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\physics-2d-box2d.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\physics-2d-framework.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\profiler.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\spine.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\tiled-map.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\tween.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\ui.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\video.ts';export * from 'C:\\ProgramData\\cocos\\editors\\Creator\\3.7.2\\resources\\resources\\3d\\engine\\exports\\webview.ts';
+5-5-2023 16:17:51-log: [build-engine]Redirect module internal:native to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\native-binding\impl.ts
+5-5-2023 16:17:51-log: [build-engine]Redirect module pal/system-info to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\system-info\web\system-info.ts
+5-5-2023 16:17:52-log: [build-engine]Redirect module pal/screen-adapter to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\screen-adapter\web\screen-adapter.ts
+5-5-2023 16:17:54-log: [build-engine]Redirect module pal/input to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\input\web\index.ts
+5-5-2023 16:17:55-log: [build-engine]Redirect module pal/audio to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\audio\web\player.ts
+5-5-2023 16:17:56-log: [build-engine]Redirect module pal/env to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\env\web\env.tsRedirect module pal/pacer to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\pacer\pacer-web.ts
+5-5-2023 16:17:58-log: [build-engine]Redirect module pal/minigame to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\pal\minigame\non-minigame.ts
+5-5-2023 16:18:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\spine\lib\spine-core.js
+5-5-2023 16:18:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\spine\lib\spine-core.js
+5-5-2023 16:18:04-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+5-5-2023 16:18:04-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+5-5-2023 16:18:06-log: [build-engine]Redirect module C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\animation\marionette\runtime-exports.ts to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\animation\marionette\index-empty.ts
+5-5-2023 16:18:07-log: The asset database is locked, asset operations(refresh) will delay response, please wait a moment.
+5-5-2023 16:18:08-log: The asset database is locked, asset operations(refresh) will delay response, please wait a moment.
+5-5-2023 16:18:08-log: [build-engine]Redirect module C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\2d\renderer\native-2d.ts to C:\ProgramData\cocos\editors\Creator\3.7.2\resources\resources\3d\engine\cocos\2d\renderer\native-2d-empty.ts
+5-5-2023 16:18:09-log: The asset database is locked, asset operations(refresh) will delay response, please wait a moment.
+5-5-2023 16:18:18-log: [build-engine]==== Performance ===={"# BUILD":[28514.3562,805840308,902304092],"## generate module graph":[26684.3569,724817760,821284648],"- plugin 0 (@cocos/build-engine|external-asset) - resolveId":[6.688299999999863,876700,821225344],"- plugin 0 (@cocos/build-engine|external-asset) - resolveId (async)":[27.106800000000085,3122512,821225628],"- plugin 1 (@cocos/build-engine|code-asset) - resolveId":[4.671199999999902,285208,821226020],"- plugin 2 (@cocos/build-engine|load-asset) - resolveId":[7.624799999999865,-4613584,821226548],"- plugin 2 (@cocos/build-engine|load-asset) - resolveId (async)":[22.929500000000214,3124452,821226832],"- plugin 3 (@cocos/build-engine|module-overrides) - resolveId":[6.818400000000027,304508,821227224],"- plugin 4 (virtual) - resolveId":[26.913800000000098,-108044,821229088],"load modules":[252677.96070000005,10268779552,821422040],"- plugin 0 (@cocos/build-engine|external-asset) - load":[1.6626000000000027,173660,821390324],"- plugin 0 (@cocos/build-engine|external-asset) - load (async)":[1.1809000000000016,168696,821390608],"- plugin 1 (@cocos/build-engine|code-asset) - load":[8.439000000000005,678996,821391996],"- plugin 1 (@cocos/build-engine|code-asset) - load (async)":[1.049499999999997,164704,821392280],"- plugin 2 (@cocos/build-engine|load-asset) - load":[1.2169000000000016,179784,821392836],"- plugin 2 (@cocos/build-engine|load-asset) - load (async)":[0.9798999999999985,164752,821393120],"- plugin 3 (@cocos/build-engine|module-overrides) - load":[5.071599999999999,249340,821393756],"- plugin 4 (virtual) - load":[1.0585000000000002,55264,821394148],"- plugin 7 (json) - transform":[4.3108000000000075,632056,821427312],"- plugin 8 (commonjs) - transform":[477.8061,19854764,821430396],"- plugin 9 (babel) - transform":[278.86350000000004,-2282488,821465364],"generate ast":[888.8806999999994,21903448,820543500],"analyse ast":[949.9669,69681520,821220816],"- plugin 5 (ts-paths) - resolveId":[4.101599999999973,264144,821229480],"- plugin 6 (node-resolve) - resolveId":[40.0672,9535476,821230592],"- plugin 6 (node-resolve) - resolveId (async)":[127326.69389999963,2396573372,821385940],"- plugin 6 (node-resolve) - load":[0.9937999999999994,54328,821394580],"- plugin 8 (commonjs) - load":[4.0879999999999965,701832,821396076],"- plugin 9 (babel) - load":[199.9607999999993,9142832,821396468],"- plugin 9 (babel) - transform (async)":[20173.947299999993,641503992,820104784],"- plugin 8 (commonjs) - resolveId":[2.665299999999999,50216,821231336],"- plugin 9 (babel) - resolveId":[1.1864999999999997,31968,821231728],"- plugin 8 (commonjs) - resolveId (async)":[4846.9496,191379552,800190188],"- plugin 8 (commonjs) - load (async)":[407.214,10452620,676173804],"## sort modules":[278.9146,17055488,838340576],"## mark included statements":[1550.962,63961976,902302940],"treeshaking pass 1":[612.2601,34431496,870358712],"treeshaking pass 2":[369.7126,14354048,884713140],"treeshaking pass 3":[174.4682,8587920,893301440],"treeshaking pass 4":[105.6586,8509544,901811364],"treeshaking pass 5":[76.6449,-4023496,897788248],"treeshaking pass 6":[64.3926,6683180,904471808],"treeshaking pass 7":[64.8293,-956300,903515888],"treeshaking pass 8":[70.9482,-1215264,902302568]}====             ====
+5-5-2023 16:18:35-log: The asset database is locked, asset operations(refresh) will delay response, please wait a moment.
+5-5-2023 16:18:37-debug: excute-script over with build-engine 50903ms
+5-5-2023 16:18:37-debug: Build engine in (51007 ms) √43%
+5-5-2023 16:18:37-debug: // ---- build task Build script ---- (65922ms)
+5-5-2023 16:18:37-debug: run build task Build script success in 65922 ms √50%
+5-5-2023 16:18:37-debug: // ---- build task Compress zip bundle ----
+5-5-2023 16:18:37-debug: Process: heapTotal 226.93MB heapUsed 212.47MB rss 637.83MB
+5-5-2023 16:18:37-debug: Compress zip bundle start50%
+5-5-2023 16:18:37-debug: // ---- build task Compress zip bundle ---- (1ms)
+5-5-2023 16:18:37-debug: run build task Compress zip bundle success in 1 ms √57%
+5-5-2023 16:18:37-debug: Add md5 suffix to assets start57%
+5-5-2023 16:18:37-debug: // ---- build task Add md5 suffix to assets ----
+5-5-2023 16:18:37-debug: Process: heapTotal 226.93MB heapUsed 211.80MB rss 637.21MB
+5-5-2023 16:18:37-debug: run build task Add md5 suffix to assets success in 0 ms √67%
+5-5-2023 16:18:37-debug: Init settings and config start67%
+5-5-2023 16:18:37-debug: // ---- build task Init settings and config ----
+5-5-2023 16:18:37-debug: Process: heapTotal 226.93MB heapUsed 211.96MB rss 637.35MB
+5-5-2023 16:18:37-debug: // ---- build task Init settings and config ---- (1ms)
+5-5-2023 16:18:37-debug: run build task Init settings and config success in 1 ms √67%
+5-5-2023 16:18:37-debug: builder.tasks.settings.macro does not defined in i18n
+5-5-2023 16:18:37-debug: // ---- build task builder.tasks.settings.macro ----
+5-5-2023 16:18:37-debug: builder.tasks.settings.macro start67%
+5-5-2023 16:18:37-debug: Process: heapTotal 226.93MB heapUsed 212.14MB rss 637.53MB
+5-5-2023 16:18:37-debug: // ---- build task builder.tasks.settings.macro ---- (53ms)
+5-5-2023 16:18:37-debug: run build task builder.tasks.settings.macro success in 53 ms √68%
+5-5-2023 16:18:37-debug: // ---- build task Sort some build options to settings.json ----
+5-5-2023 16:18:37-debug: Sort some build options to settings.json start68%
+5-5-2023 16:18:37-debug: Process: heapTotal 226.93MB heapUsed 212.31MB rss 637.70MB
+5-5-2023 16:18:38-debug: // ---- build task Sort some build options to settings.json ---- (50ms)
+5-5-2023 16:18:38-debug: run build task Sort some build options to settings.json success in 50 ms √68%
+5-5-2023 16:18:38-debug: // ---- build task custom joint texture layouts ----
+5-5-2023 16:18:38-debug: custom joint texture layouts start68%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.53MB rss 637.90MB
+5-5-2023 16:18:38-debug: // ---- build task custom joint texture layouts ---- (46ms)
+5-5-2023 16:18:38-debug: run build task custom joint texture layouts success in 46 ms √69%
+5-5-2023 16:18:38-debug: // ---- build task custom joint physics ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 211.91MB rss 637.23MB
+5-5-2023 16:18:38-debug: custom joint physics start69%
+5-5-2023 16:18:38-debug: // ---- build task custom joint physics ---- (1ms)
+5-5-2023 16:18:38-debug: run build task custom joint physics success in 1 ms √69%
+5-5-2023 16:18:38-debug: Fill script data to settings start69%
+5-5-2023 16:18:38-debug: // ---- build task Fill script data to settings ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.07MB rss 637.40MB
+5-5-2023 16:18:38-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-5-2023 16:18:38-debug: run build task Fill script data to settings success in 1 ms √70%
+5-5-2023 16:18:38-debug: // ---- build task Fill scene data to settings ----
+5-5-2023 16:18:38-debug: Fill scene data to settings start70%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.24MB rss 637.57MB
+5-5-2023 16:18:38-debug: run build task Fill scene data to settings success in 0 ms √71%
+5-5-2023 16:18:38-debug: Organize assets groups，generate packedAssets and rawAssets data start71%
+5-5-2023 16:18:38-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.40MB rss 637.73MB
+5-5-2023 16:18:38-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-5-2023 16:18:38-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √71%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.60MB rss 637.91MB
+5-5-2023 16:18:38-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-5-2023 16:18:38-debug: options.md5Cache is false.
+5-5-2023 16:18:38-debug: Generate md5AssetsMap from suffixMap to settings start71%
+5-5-2023 16:18:38-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-5-2023 16:18:38-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √72%
+5-5-2023 16:18:38-debug: // ---- build task web-desktop：onBeforeCompressSettings ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 211.90MB rss 637.25MB
+5-5-2023 16:18:38-debug: web-desktop:(onBeforeCompressSettings) start...72%
+5-5-2023 16:18:38-debug: web-desktop:(onBeforeCompressSettings) in 0 ms73%
+5-5-2023 16:18:38-debug: cocos-service:(onBeforeCompressSettings) start...73%
+5-5-2023 16:18:38-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.06MB rss 637.41MB
+5-5-2023 16:18:38-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (360ms)
+5-5-2023 16:18:38-debug: cocos-service:(onBeforeCompressSettings) in 360 ms74%
+5-5-2023 16:18:38-debug: Build import-map.json start74%
+5-5-2023 16:18:38-debug: // ---- build task Build import-map.json ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.40MB rss 637.80MB
+5-5-2023 16:18:38-debug: // ---- build task Build import-map.json ---- (1ms)
+5-5-2023 16:18:38-debug: run build task Build import-map.json success in 1 ms √75%
+5-5-2023 16:18:38-debug: Compress settings.json and config.json start75%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.57MB rss 637.97MB
+5-5-2023 16:18:38-debug: // ---- build task Compress settings.json and config.json ----
+5-5-2023 16:18:38-debug: // ---- build task Compress settings.json and config.json ---- (2ms)
+5-5-2023 16:18:38-debug: run build task Compress settings.json and config.json success in 2 ms √76%
+5-5-2023 16:18:38-debug: Save config.json start76%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.74MB rss 638.19MB
+5-5-2023 16:18:38-debug: // ---- build task Save config.json ----
+5-5-2023 16:18:38-debug: // ---- build task Save config.json ---- (2ms)
+5-5-2023 16:18:38-debug: run build task Save config.json success in 2 ms √76%
+5-5-2023 16:18:38-debug: Save Settings.json start76%
+5-5-2023 16:18:38-debug: // ---- build task Save Settings.json ----
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.00MB rss 637.43MB
+5-5-2023 16:18:38-debug: // ---- build task Save Settings.json ---- (1ms)
+5-5-2023 16:18:38-debug: run build task Save Settings.json success in 1 ms √77%
+5-5-2023 16:18:38-debug: Save Settings.json start77%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.41MB rss 637.75MB
+5-5-2023 16:18:38-debug: // ---- build task Save Settings.json ----
+5-5-2023 16:18:38-debug: run build task Save Settings.json success in 0 ms √78%
+5-5-2023 16:18:38-debug: Process: heapTotal 226.93MB heapUsed 212.57MB rss 637.90MB
+5-5-2023 16:18:38-debug: // ---- build task Sort build template ----
+5-5-2023 16:18:38-debug: Sort build template start78%
+5-5-2023 16:18:39-debug: // ---- build task Sort build template ---- (121ms)
+5-5-2023 16:18:39-debug: run build task Sort build template success in 121 ms √79%
+5-5-2023 16:18:39-debug: cocos-service:(onAfterCompressSettings) start...79%
+5-5-2023 16:18:39-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+5-5-2023 16:18:39-debug: Process: heapTotal 226.93MB heapUsed 212.85MB rss 637.93MB
+5-5-2023 16:18:39-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (370ms)
+5-5-2023 16:18:39-debug: // ---- build task web-desktop：onAfterBuild ----
+5-5-2023 16:18:39-debug: cocos-service:(onAfterCompressSettings) in 370 ms81%
+5-5-2023 16:18:39-debug: Process: heapTotal 226.93MB heapUsed 212.97MB rss 638.09MB
+5-5-2023 16:18:39-debug: web-desktop:(onAfterBuild) start...81%
+5-5-2023 16:18:39-debug: Use build-template {link(C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\build-templates\web-desktop)}.
+5-5-2023 16:18:39-debug: // ---- build task web-desktop：onAfterBuild ---- (116ms)
+5-5-2023 16:18:39-debug: cocos-service:(onAfterBuild) start...82%
+5-5-2023 16:18:39-debug: // ---- build task cocos-service：onAfterBuild ----
+5-5-2023 16:18:39-debug: Process: heapTotal 227.93MB heapUsed 213.27MB rss 639.16MB
+5-5-2023 16:18:39-debug: web-desktop:(onAfterBuild) in 116 ms82%
+5-5-2023 16:18:40-debug: // ---- build task cocos-service：onAfterBuild ---- (780ms)
+5-5-2023 16:18:40-debug: cocos-service:(onAfterBuild) in 780 ms83%
+5-5-2023 16:18:40-log: Asset DB is resume!
+5-5-2023 16:18:40-debug: builder:build-project-total (71382ms)
+5-5-2023 16:18:40-debug: build success in 71382 ms!
+5-5-2023 16:18:40-debug: ================================ build Task (web-desktop-004) Finished in (71429)ms ================================

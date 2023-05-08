@@ -5,7 +5,8 @@
         "version": "Windows 10 Home Single Language"
     },
     "sceneListMap": {
-        "9a5bce71-9ae1-4c17-8bed-eb896cfc849c": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\MainGame.scene"
+        "d52cd7b4-d1c5-459e-83ef-76ac06a145c3": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Entry.scene",
+        "2abec6f2-b1a6-4369-8964-1a1f0fed7b9f": "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Menu.scene"
     },
     "deviceMd5": "885edb8ea158749e7adde5b2995c97d7"
 }

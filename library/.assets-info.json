@@ -199,22 +199,22 @@
     "missing": false
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene": {
-    "time": 1681983925568.3013,
+    "time": 1683519919757.2864,
     "uuid": "6a36e213-fff7-4bc8-a52c-38464eac787b",
     "missing": false
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script": {
-    "time": 1682061169004.7715,
+    "time": 1683519981519.4795,
     "uuid": "6670973e-396b-47a7-89b8-98c30e0652eb",
     "missing": false
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameController.ts": {
-    "time": 1682565336733.9297,
+    "time": 1683277301258.2412,
     "uuid": "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99",
     "missing": false
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\GameView.ts": {
-    "time": 1682319529822.663,
+    "time": 1682665966746.7854,
     "uuid": "4b0c4182-0852-4146-b948-3472f36b73f0",
     "missing": false
   },
@@ -315,7 +315,7 @@
     "missing": false
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\MainGame.scene": {
-    "time": 1682565364961.349,
+    "time": 1682669073764.3667,
     "uuid": "9a5bce71-9ae1-4c17-8bed-eb896cfc849c",
     "missing": false
   },
@@ -371,7 +371,7 @@
     "time": 1681982115866.9119
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Menu.scene": {
-    "time": 1682319557080.0215,
+    "time": 1683520383950.1338,
     "uuid": "2abec6f2-b1a6-4369-8964-1a1f0fed7b9f",
     "missing": false
   },
@@ -403,7 +403,7 @@
     "time": 1681982201637.6616
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\MenuController.ts": {
-    "time": 1682320994664.0461,
+    "time": 1683520138225.3926,
     "uuid": "22ebcf80-234a-47b1-acc4-e85a83762a94",
     "missing": false
   },
@@ -427,8 +427,200 @@
     "time": 1682061169011.7566
   },
   "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\StoredPersistNode.ts": {
-    "time": 1682566904790.6917,
+    "time": 1683520136056.5205,
     "uuid": "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG.meta": {
+    "time": 1683277611369.308
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x.meta": {
+    "time": 1683277611370.3071
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x.meta": {
+    "time": 1683277611371.6492
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x.meta": {
+    "time": 1683277611373.0347
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG": {
+    "time": 1683277611544.7449,
+    "uuid": "dab69aa9-33aa-448c-963d-b4ae64ad3df8",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x": {
+    "time": 1683277611548.7444,
+    "uuid": "710c3633-0b2d-4c08-b3f4-5b3bb555a7a9",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x": {
+    "time": 1683277611550.8157,
+    "uuid": "6f76de47-b61e-4b99-9f41-0fac2bf72248",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x": {
+    "time": 1683277611556.3623,
+    "uuid": "4c4318af-f579-49d7-a3f7-a23d4cb6172a",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\(1)._Icon_.meta": {
+    "time": 1683277611575.6465
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\(1)._Icon_.meta": {
+    "time": 1683277611572.206
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 10.png.meta": {
+    "time": 1683277612066.5205
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 11.png.meta": {
+    "time": 1683277612069.7693
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 12.png.meta": {
+    "time": 1683277612068.7693
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 8.png.meta": {
+    "time": 1683277612070.7695
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 9.png.meta": {
+    "time": 1683277613149.3857
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 10@2x.png.meta": {
+    "time": 1683277613660.0469
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 11@2x.png.meta": {
+    "time": 1683277613659.0432
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 12@2x.png.meta": {
+    "time": 1683277613661.0464
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 8@2x.png.meta": {
+    "time": 1683277613923.8542
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 9@2x.png.meta": {
+    "time": 1683277613925.8545
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\(1)._Icon_.meta": {
+    "time": 1683277613888.8564
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 10@4x.png.meta": {
+    "time": 1683277619889.712
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 11@4x.png.meta": {
+    "time": 1683277619887.496
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 12@4x.png.meta": {
+    "time": 1683277619885.3696
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 8@4x.png.meta": {
+    "time": 1683277619888.708
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 9@4x.png.meta": {
+    "time": 1683277620299.474
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\(1)._Icon_": {
+    "time": 1683276500403.4185,
+    "uuid": "2481ef2f-44d0-485e-831c-980b7ac070c1",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\(1)._Icon_": {
+    "time": 1683276500052.5989,
+    "uuid": "26347da0-3a94-4dfe-a92f-92e31eb0c3fe",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 10.png": {
+    "time": 1683276500307.0574,
+    "uuid": "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 12.png": {
+    "time": 1683276500347.0713,
+    "uuid": "65793e06-ff71-478b-9bca-7de7222afee1",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 11.png": {
+    "time": 1683276500420.6794,
+    "uuid": "39f50bff-bccb-49f1-8a64-a38a94ffd533",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 8.png": {
+    "time": 1683276500380.7014,
+    "uuid": "36bc0c36-6b4f-4004-b68d-4d9acb355b81",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\1x\\Artboard 9.png": {
+    "time": 1683276500364.1848,
+    "uuid": "8960254c-38bd-441a-a872-0cdc3fc3d105",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 11@2x.png": {
+    "time": 1683276500282.7812,
+    "uuid": "50ad02fd-75f5-4804-acd1-2c354ca5da6a",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 10@2x.png": {
+    "time": 1683276500249.0408,
+    "uuid": "4a55154f-7e8e-461b-9d30-c0c01bd880e6",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 12@2x.png": {
+    "time": 1683276500216.4949,
+    "uuid": "274a2d09-9d5a-479b-b827-d12a2398a06e",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\(1)._Icon_": {
+    "time": 1683276500138.9087,
+    "uuid": "1dda96e4-fe70-46db-8478-ce2087e73a38",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 8@2x.png": {
+    "time": 1683276500265.762,
+    "uuid": "83117934-22ae-4c4e-8171-a94c78da2917",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\2x\\Artboard 9@2x.png": {
+    "time": 1683276500232.5166,
+    "uuid": "bc5554a9-4322-4e61-a498-64483ce8c4e3",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 12@4x.png": {
+    "time": 1683276500092.338,
+    "uuid": "8c69d228-231c-460c-ac97-22a835603e9a",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 11@4x.png": {
+    "time": 1683276500175.3386,
+    "uuid": "69ac63d5-5d37-4253-8d0b-1768e9ceeea8",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 8@4x.png": {
+    "time": 1683276500075.1309,
+    "uuid": "13403c1d-c989-498c-b49d-5ad1615409c4",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 10@4x.png": {
+    "time": 1683276500156.947,
+    "uuid": "5d24dd9f-49ec-41f7-8e2f-7966e16519a5",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\LogoPNG\\4x\\Artboard 9@4x.png": {
+    "time": 1683276500193.394,
+    "uuid": "a16c588c-2b5e-45d2-bcf4-f16684448b1f",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Entry.scene.meta": {
+    "time": 1683519919763.2869
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Scene\\Entry.scene": {
+    "time": 1683520209708.5183,
+    "uuid": "d52cd7b4-d1c5-459e-83ef-76ac06a145c3",
+    "missing": false
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\EntryController.ts.meta": {
+    "time": 1683519981524.4778
+  },
+  "C:\\Users\\ADMIN\\OneDrive\\Máy tính\\SudokuMain2\\SudokuMain2\\assets\\Script\\EntryController.ts": {
+    "time": 1683520158871.6494,
+    "uuid": "e8072145-2e58-4330-ac55-163f14a05504",
     "missing": false
   }
 }

@@ -51,6 +51,7 @@
         "bfd20b41-5424-4151-86ec-41735fd09e51",
         "a106f31d-da27-4c2c-9819-b07178a44960",
         "ba7fde84-76a0-4cb0-b81a-d263e69a6f19",
+        "c501937f-b5e4-4414-a425-af64ff46a49b",
         "1337b7fe-3c80-460f-8928-fbb86b035231@f9941"
       ]
     }
@@ -425,6 +426,383 @@
   },
   "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592": {
     "url": "db://assets/Script/StoredPersistNode.ts",
+    "value": {}
+  },
+  "dab69aa9-33aa-448c-963d-b4ae64ad3df8": {
+    "url": "db://assets/LogoPNG",
+    "value": {}
+  },
+  "710c3633-0b2d-4c08-b3f4-5b3bb555a7a9": {
+    "url": "db://assets/LogoPNG/1x",
+    "value": {}
+  },
+  "6f76de47-b61e-4b99-9f41-0fac2bf72248": {
+    "url": "db://assets/LogoPNG/2x",
+    "value": {}
+  },
+  "4c4318af-f579-49d7-a3f7-a23d4cb6172a": {
+    "url": "db://assets/LogoPNG/4x",
+    "value": {}
+  },
+  "26347da0-3a94-4dfe-a92f-92e31eb0c3fe": {
+    "url": "db://assets/LogoPNG/(1)._Icon_",
+    "value": {
+      "depends": []
+    }
+  },
+  "2481ef2f-44d0-485e-831c-980b7ac070c1": {
+    "url": "db://assets/LogoPNG/1x/(1)._Icon_",
+    "value": {
+      "depends": []
+    }
+  },
+  "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee": {
+    "url": "db://assets/LogoPNG/1x/Artboard 10.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "39f50bff-bccb-49f1-8a64-a38a94ffd533": {
+    "url": "db://assets/LogoPNG/1x/Artboard 11.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "65793e06-ff71-478b-9bca-7de7222afee1": {
+    "url": "db://assets/LogoPNG/1x/Artboard 12.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "36bc0c36-6b4f-4004-b68d-4d9acb355b81": {
+    "url": "db://assets/LogoPNG/1x/Artboard 8.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8960254c-38bd-441a-a872-0cdc3fc3d105": {
+    "url": "db://assets/LogoPNG/1x/Artboard 9.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "65793e06-ff71-478b-9bca-7de7222afee1@6c48a": {
+    "url": "db://assets/LogoPNG/1x/Artboard 12.png@6c48a",
+    "value": {
+      "depends": [
+        "65793e06-ff71-478b-9bca-7de7222afee1"
+      ]
+    }
+  },
+  "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee@6c48a": {
+    "url": "db://assets/LogoPNG/1x/Artboard 10.png@6c48a",
+    "value": {
+      "depends": [
+        "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee"
+      ]
+    }
+  },
+  "36bc0c36-6b4f-4004-b68d-4d9acb355b81@6c48a": {
+    "url": "db://assets/LogoPNG/1x/Artboard 8.png@6c48a",
+    "value": {
+      "depends": [
+        "36bc0c36-6b4f-4004-b68d-4d9acb355b81"
+      ]
+    }
+  },
+  "39f50bff-bccb-49f1-8a64-a38a94ffd533@6c48a": {
+    "url": "db://assets/LogoPNG/1x/Artboard 11.png@6c48a",
+    "value": {
+      "depends": [
+        "39f50bff-bccb-49f1-8a64-a38a94ffd533"
+      ]
+    }
+  },
+  "8960254c-38bd-441a-a872-0cdc3fc3d105@6c48a": {
+    "url": "db://assets/LogoPNG/1x/Artboard 9.png@6c48a",
+    "value": {
+      "depends": [
+        "8960254c-38bd-441a-a872-0cdc3fc3d105"
+      ]
+    }
+  },
+  "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee@f9941": {
+    "url": "db://assets/LogoPNG/1x/Artboard 10.png@f9941",
+    "value": {
+      "depends": [
+        "4dc6338d-0979-43ab-83bd-8ab0fdf7a2ee@6c48a"
+      ]
+    }
+  },
+  "4a55154f-7e8e-461b-9d30-c0c01bd880e6": {
+    "url": "db://assets/LogoPNG/2x/Artboard 10@2x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "65793e06-ff71-478b-9bca-7de7222afee1@f9941": {
+    "url": "db://assets/LogoPNG/1x/Artboard 12.png@f9941",
+    "value": {
+      "depends": [
+        "65793e06-ff71-478b-9bca-7de7222afee1@6c48a"
+      ]
+    }
+  },
+  "39f50bff-bccb-49f1-8a64-a38a94ffd533@f9941": {
+    "url": "db://assets/LogoPNG/1x/Artboard 11.png@f9941",
+    "value": {
+      "depends": [
+        "39f50bff-bccb-49f1-8a64-a38a94ffd533@6c48a"
+      ]
+    }
+  },
+  "36bc0c36-6b4f-4004-b68d-4d9acb355b81@f9941": {
+    "url": "db://assets/LogoPNG/1x/Artboard 8.png@f9941",
+    "value": {
+      "depends": [
+        "36bc0c36-6b4f-4004-b68d-4d9acb355b81@6c48a"
+      ]
+    }
+  },
+  "50ad02fd-75f5-4804-acd1-2c354ca5da6a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 11@2x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "274a2d09-9d5a-479b-b827-d12a2398a06e": {
+    "url": "db://assets/LogoPNG/2x/Artboard 12@2x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "83117934-22ae-4c4e-8171-a94c78da2917": {
+    "url": "db://assets/LogoPNG/2x/Artboard 8@2x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "8960254c-38bd-441a-a872-0cdc3fc3d105@f9941": {
+    "url": "db://assets/LogoPNG/1x/Artboard 9.png@f9941",
+    "value": {
+      "depends": [
+        "8960254c-38bd-441a-a872-0cdc3fc3d105@6c48a"
+      ]
+    }
+  },
+  "bc5554a9-4322-4e61-a498-64483ce8c4e3": {
+    "url": "db://assets/LogoPNG/2x/Artboard 9@2x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "274a2d09-9d5a-479b-b827-d12a2398a06e@6c48a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 12@2x.png@6c48a",
+    "value": {
+      "depends": [
+        "274a2d09-9d5a-479b-b827-d12a2398a06e"
+      ]
+    }
+  },
+  "50ad02fd-75f5-4804-acd1-2c354ca5da6a@6c48a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 11@2x.png@6c48a",
+    "value": {
+      "depends": [
+        "50ad02fd-75f5-4804-acd1-2c354ca5da6a"
+      ]
+    }
+  },
+  "4a55154f-7e8e-461b-9d30-c0c01bd880e6@6c48a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 10@2x.png@6c48a",
+    "value": {
+      "depends": [
+        "4a55154f-7e8e-461b-9d30-c0c01bd880e6"
+      ]
+    }
+  },
+  "83117934-22ae-4c4e-8171-a94c78da2917@6c48a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 8@2x.png@6c48a",
+    "value": {
+      "depends": [
+        "83117934-22ae-4c4e-8171-a94c78da2917"
+      ]
+    }
+  },
+  "50ad02fd-75f5-4804-acd1-2c354ca5da6a@f9941": {
+    "url": "db://assets/LogoPNG/2x/Artboard 11@2x.png@f9941",
+    "value": {
+      "depends": [
+        "50ad02fd-75f5-4804-acd1-2c354ca5da6a@6c48a"
+      ]
+    }
+  },
+  "4a55154f-7e8e-461b-9d30-c0c01bd880e6@f9941": {
+    "url": "db://assets/LogoPNG/2x/Artboard 10@2x.png@f9941",
+    "value": {
+      "depends": [
+        "4a55154f-7e8e-461b-9d30-c0c01bd880e6@6c48a"
+      ]
+    }
+  },
+  "274a2d09-9d5a-479b-b827-d12a2398a06e@f9941": {
+    "url": "db://assets/LogoPNG/2x/Artboard 12@2x.png@f9941",
+    "value": {
+      "depends": [
+        "274a2d09-9d5a-479b-b827-d12a2398a06e@6c48a"
+      ]
+    }
+  },
+  "1dda96e4-fe70-46db-8478-ce2087e73a38": {
+    "url": "db://assets/LogoPNG/4x/(1)._Icon_",
+    "value": {
+      "depends": []
+    }
+  },
+  "5d24dd9f-49ec-41f7-8e2f-7966e16519a5": {
+    "url": "db://assets/LogoPNG/4x/Artboard 10@4x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "69ac63d5-5d37-4253-8d0b-1768e9ceeea8": {
+    "url": "db://assets/LogoPNG/4x/Artboard 11@4x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bc5554a9-4322-4e61-a498-64483ce8c4e3@6c48a": {
+    "url": "db://assets/LogoPNG/2x/Artboard 9@2x.png@6c48a",
+    "value": {
+      "depends": [
+        "bc5554a9-4322-4e61-a498-64483ce8c4e3"
+      ]
+    }
+  },
+  "8c69d228-231c-460c-ac97-22a835603e9a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 12@4x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "83117934-22ae-4c4e-8171-a94c78da2917@f9941": {
+    "url": "db://assets/LogoPNG/2x/Artboard 8@2x.png@f9941",
+    "value": {
+      "depends": [
+        "83117934-22ae-4c4e-8171-a94c78da2917@6c48a"
+      ]
+    }
+  },
+  "13403c1d-c989-498c-b49d-5ad1615409c4": {
+    "url": "db://assets/LogoPNG/4x/Artboard 8@4x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bc5554a9-4322-4e61-a498-64483ce8c4e3@f9941": {
+    "url": "db://assets/LogoPNG/2x/Artboard 9@2x.png@f9941",
+    "value": {
+      "depends": [
+        "bc5554a9-4322-4e61-a498-64483ce8c4e3@6c48a"
+      ]
+    }
+  },
+  "a16c588c-2b5e-45d2-bcf4-f16684448b1f": {
+    "url": "db://assets/LogoPNG/4x/Artboard 9@4x.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "69ac63d5-5d37-4253-8d0b-1768e9ceeea8@6c48a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 11@4x.png@6c48a",
+    "value": {
+      "depends": [
+        "69ac63d5-5d37-4253-8d0b-1768e9ceeea8"
+      ]
+    }
+  },
+  "5d24dd9f-49ec-41f7-8e2f-7966e16519a5@6c48a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 10@4x.png@6c48a",
+    "value": {
+      "depends": [
+        "5d24dd9f-49ec-41f7-8e2f-7966e16519a5"
+      ]
+    }
+  },
+  "8c69d228-231c-460c-ac97-22a835603e9a@6c48a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 12@4x.png@6c48a",
+    "value": {
+      "depends": [
+        "8c69d228-231c-460c-ac97-22a835603e9a"
+      ]
+    }
+  },
+  "13403c1d-c989-498c-b49d-5ad1615409c4@6c48a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 8@4x.png@6c48a",
+    "value": {
+      "depends": [
+        "13403c1d-c989-498c-b49d-5ad1615409c4"
+      ]
+    }
+  },
+  "8c69d228-231c-460c-ac97-22a835603e9a@f9941": {
+    "url": "db://assets/LogoPNG/4x/Artboard 12@4x.png@f9941",
+    "value": {
+      "depends": [
+        "8c69d228-231c-460c-ac97-22a835603e9a@6c48a"
+      ]
+    }
+  },
+  "69ac63d5-5d37-4253-8d0b-1768e9ceeea8@f9941": {
+    "url": "db://assets/LogoPNG/4x/Artboard 11@4x.png@f9941",
+    "value": {
+      "depends": [
+        "69ac63d5-5d37-4253-8d0b-1768e9ceeea8@6c48a"
+      ]
+    }
+  },
+  "13403c1d-c989-498c-b49d-5ad1615409c4@f9941": {
+    "url": "db://assets/LogoPNG/4x/Artboard 8@4x.png@f9941",
+    "value": {
+      "depends": [
+        "13403c1d-c989-498c-b49d-5ad1615409c4@6c48a"
+      ]
+    }
+  },
+  "5d24dd9f-49ec-41f7-8e2f-7966e16519a5@f9941": {
+    "url": "db://assets/LogoPNG/4x/Artboard 10@4x.png@f9941",
+    "value": {
+      "depends": [
+        "5d24dd9f-49ec-41f7-8e2f-7966e16519a5@6c48a"
+      ]
+    }
+  },
+  "a16c588c-2b5e-45d2-bcf4-f16684448b1f@6c48a": {
+    "url": "db://assets/LogoPNG/4x/Artboard 9@4x.png@6c48a",
+    "value": {
+      "depends": [
+        "a16c588c-2b5e-45d2-bcf4-f16684448b1f"
+      ]
+    }
+  },
+  "a16c588c-2b5e-45d2-bcf4-f16684448b1f@f9941": {
+    "url": "db://assets/LogoPNG/4x/Artboard 9@4x.png@f9941",
+    "value": {
+      "depends": [
+        "a16c588c-2b5e-45d2-bcf4-f16684448b1f@6c48a"
+      ]
+    }
+  },
+  "d52cd7b4-d1c5-459e-83ef-76ac06a145c3": {
+    "url": "db://assets/Scene/Entry.scene",
+    "value": {
+      "depends": [
+        "d52cd7b4-d1c5-459e-83ef-76ac06a145c3",
+        "fc45f71f-9ef1-4d3c-9f24-b3c5193c6b97@f9941"
+      ]
+    }
+  },
+  "e8072145-2e58-4330-ac55-163f14a05504": {
+    "url": "db://assets/Script/EntryController.ts",
     "value": {}
   }
 }

@@ -2,6 +2,7 @@ import { _decorator, Component, Node ,Button, director, find, AudioSource} from 
 import { MenuModel } from './MenuModel';
 import { MenuView } from './MenuView';
 import { StoredPersistNode } from './StoredPersistNode';
+import GameClient from '@dattenlagiday/oc_gamecenter_sdk_pkg';
 const { ccclass, property } = _decorator;
 
 @ccclass('MenuController')
@@ -16,21 +17,6 @@ export class MenuController extends Component {
     public gameClient;
 
     public async start() : Promise<void>{
-        let parameters = find("GameClient");
-        console.log(this.gameClient);
-        
-        if (parameters === null) {
-            let parameters = new Node("GameClient");
-            let gameClientParams = parameters.addComponent(StoredPersistNode);
-            gameClientParams.gameClient = this.gameClient;
-            gameClientParams.volumeAudio = this.View.AudioBg.volume;
-            director.addPersistRootNode(parameters);
-            console.log(gameClientParams.volumeAudio);
-        }
-
-        console.log('gameClient: ', this.gameClient);
-        console.log(parameters);
-
         // console.log(audioParam);
         this.View.AudioBg.play();
         this.View.AudioMute.node.active = false;

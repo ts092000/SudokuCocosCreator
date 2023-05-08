@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 9246.379200011492,
+      "mTimestamp": 6089.849300026894,
       "chunkId": "02454ce52c24527a6d11792cfd90549c5b418480",
       "imports": [
         {
@@ -430,8 +430,8 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 4058468.3401000053,
-      "chunkId": "5a6a98ae14ee88abb8ca98380f8150e672c61ad5",
+      "mTimestamp": 294001.040800035,
+      "chunkId": "6411f90c4190295b67aabbf0e2b7e84f48230598",
       "imports": [
         {
           "value": "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
@@ -448,7 +448,7 @@
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/EntryController.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -457,12 +457,12 @@
             },
             "end": {
               "line": 5,
-              "column": 117
+              "column": 118
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameModel.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -471,12 +471,12 @@
             },
             "end": {
               "line": 6,
-              "column": 112
+              "column": 117
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameView.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameModel.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -485,12 +485,12 @@
             },
             "end": {
               "line": 7,
-              "column": 111
+              "column": 112
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuController.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameView.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -499,12 +499,12 @@
             },
             "end": {
               "line": 8,
-              "column": 117
+              "column": 111
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuModel.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuController.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -513,12 +513,12 @@
             },
             "end": {
               "line": 9,
-              "column": 112
+              "column": 117
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuView.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuModel.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -527,12 +527,12 @@
             },
             "end": {
               "line": 10,
-              "column": 111
+              "column": 112
             }
           }
         },
         {
-          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts",
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuView.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -541,6 +541,20 @@
             },
             "end": {
               "line": 11,
+              "column": 111
+            }
+          }
+        },
+        {
+          "value": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
               "column": 120
             }
           }
@@ -552,6 +566,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/ProgramData/cocos/editors/Creator/3.7.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/EntryController.ts"
           },
           "messages": []
         },
@@ -731,7 +752,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1682562851417,
+      "mTimestamp": 1683519866928,
       "chunkId": "cceb4f795e6e637cc67c120b5b44ef3a584b486a",
       "imports": [],
       "type": "esm",
@@ -1028,7 +1049,7 @@
       ]
     },
     "cce:/internal/ml/cjs-loader.mjs": {
-      "mTimestamp": 1682562851417,
+      "mTimestamp": 1683519866928,
       "chunkId": "bfe72779096c71ed4dc3545a580f7065d44c03f9",
       "imports": [],
       "type": "esm",
@@ -1036,10 +1057,10 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameController.ts": {
       "mTimestamp": {
-        "mtime": 1682565336733.9297,
+        "mtime": 1683277301258.2412,
         "uuid": "71825b1b-9ac4-4924-b9a5-3b39e2ce9b99"
       },
-      "chunkId": "cc9fc6c3bc25d48bab82c81256563313568df67e",
+      "chunkId": "7c6d31311f5b025a4e84c6a172e013aa61ea5c31",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1224,10 +1245,10 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/GameView.ts": {
       "mTimestamp": {
-        "mtime": 1682319529822.663,
+        "mtime": 1682665966746.7854,
         "uuid": "4b0c4182-0852-4146-b948-3472f36b73f0"
       },
-      "chunkId": "d8f79285227c819a6ff96c23b6019810ab161ed6",
+      "chunkId": "7a00a0d81b2c56a76729ea8c59ce4d93616f3cc4",
       "imports": [
         {
           "value": "cc"
@@ -1555,10 +1576,10 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuController.ts": {
       "mTimestamp": {
-        "mtime": 1682320994664.0461,
+        "mtime": 1683520138225.3926,
         "uuid": "22ebcf80-234a-47b1-acc4-e85a83762a94"
       },
-      "chunkId": "07ef861de2e743259fabecfd7065afbd09a102c8",
+      "chunkId": "0671af7bba80a5b1badf608c3edce56f401e050a",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1610,20 +1631,6 @@
               "column": 37
             }
           }
-        },
-        {
-          "value": "./StoredPersistNode",
-          "resolved": "__unresolved_3",
-          "loc": {
-            "start": {
-              "line": 4,
-              "column": 34
-            },
-            "end": {
-              "line": 4,
-              "column": 55
-            }
-          }
         }
       ],
       "type": "esm",
@@ -1667,13 +1674,6 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/MenuView.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts"
           },
           "messages": []
         }
@@ -1889,15 +1889,11 @@
     },
     "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts": {
       "mTimestamp": {
-        "mtime": 1682566904790.6917,
+        "mtime": 1683520136056.5205,
         "uuid": "c8ecfa73-4fe8-43c3-9d5a-e22ad4a85592"
       },
-      "chunkId": "b2fc8a66bac35fee38f13bbb9c76f3ab13956cc0",
+      "chunkId": "cf7dfa047c24a303898d88940e134a61e98624f5",
       "imports": [
-        {
-          "value": "cce:/internal/code-quality/cr.mjs",
-          "resolved": "__unresolved_0"
-        },
         {
           "value": "cc"
         },
@@ -1916,6 +1912,62 @@
               "column": 69
             }
           }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/EntryController.ts": {
+      "mTimestamp": {
+        "mtime": 1683520158871.6494,
+        "uuid": "e8072145-2e58-4330-ac55-163f14a05504"
+      },
+      "chunkId": "82d2328edf2a01c4448eff7d0c4d43fdcb5ef49f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 60
+            },
+            "end": {
+              "line": 1,
+              "column": 64
+            }
+          }
         },
         {
           "value": "@dattenlagiday/oc_gamecenter_sdk_pkg",
@@ -1927,6 +1979,20 @@
             "end": {
               "line": 3,
               "column": 61
+            }
+          }
+        },
+        {
+          "value": "./StoredPersistNode",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 34
+            },
+            "end": {
+              "line": 4,
+              "column": 55
             }
           }
         }
@@ -1965,6 +2031,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/node_modules/@dattenlagiday/oc_gamecenter_sdk_pkg/index.mjs?cjs=&original=.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/ADMIN/OneDrive/M%C3%A1y%20t%C3%ADnh/SudokuMain2/SudokuMain2/assets/Script/StoredPersistNode.ts"
           },
           "messages": []
         }

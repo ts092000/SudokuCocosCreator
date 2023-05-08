@@ -1,0 +1,672 @@
+5-8-2023 11:24:31-debug: asset-db:worker-init (1203ms)
+5-8-2023 11:24:31-debug: Preimport db internal success
+5-8-2023 11:24:31-debug: Preimport db assets success
+5-8-2023 11:24:31-debug: asset-db:worker-effect-data-processing (404ms)
+5-8-2023 11:24:35-debug: Set detail map pack:///resolution-detail-map.json: {}
+5-8-2023 11:24:35-debug: Start up the 'internal' database...
+5-8-2023 11:24:35-debug: asset-db:worker-init-script (205ms)
+5-8-2023 11:24:35-debug: start asset-db with asset: 409
+5-8-2023 11:24:35-debug: Start up the 'assets' database...
+5-8-2023 11:24:35-debug: asset-db:worker-startup-database[internal] (4213ms)
+5-8-2023 11:24:35-debug: start asset-db with asset: 53
+5-8-2023 11:24:35-debug: Asset DB is ready!
+5-8-2023 11:24:35-debug: asset-db:worker-startup-database[assets] (4340ms)
+5-8-2023 11:24:35-debug: init worker message success
+5-8-2023 11:24:35-debug: programming:execute-script (1ms)
+5-8-2023 11:24:37-debug: builder:worker-init (1481ms)
+5-8-2023 11:24:38-debug: programming:execute-script (3ms)
+5-8-2023 11:25:19-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scene...
+5-8-2023 11:25:19-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:25:19-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene success
+5-8-2023 11:25:19-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:25:44-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scene...
+5-8-2023 11:25:44-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:25:44-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene success
+5-8-2023 11:26:21-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script\EntryController.ts...
+5-8-2023 11:26:21-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script\EntryController.tsbackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:26:21-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script success
+5-8-2023 11:26:21-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scriptbackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:26:26-debug: refresh db internal success
+5-8-2023 11:26:26-debug: asset-db:worker-effect-data-processing (170ms)
+5-8-2023 11:26:26-debug: refresh db assets success
+5-8-2023 11:26:26-debug: asset-db:refresh-all-database (232ms)
+5-8-2023 11:29:13-debug: refresh db internal success
+5-8-2023 11:29:13-debug: asset-db:worker-effect-data-processing (140ms)
+5-8-2023 11:29:13-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script\MenuController.tsbackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:29:13-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script\StoredPersistNode.tsbackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:29:13-debug: refresh db assets success
+5-8-2023 11:29:13-debug: asset-db:refresh-all-database (203ms)
+5-8-2023 11:29:14-debug: refresh db internal success
+5-8-2023 11:29:14-debug: asset-db:worker-effect-data-processing (166ms)
+5-8-2023 11:29:14-debug: refresh db assets success
+5-8-2023 11:29:14-debug: asset-db:refresh-all-database (229ms)
+5-8-2023 11:29:20-debug: refresh db internal success
+5-8-2023 11:29:20-debug: asset-db:worker-effect-data-processing (119ms)
+5-8-2023 11:29:20-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Script\EntryController.tsbackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:29:20-debug: refresh db assets success
+5-8-2023 11:29:20-debug: asset-db:refresh-all-database (178ms)
+5-8-2023 11:29:22-debug: refresh db internal success
+5-8-2023 11:29:22-debug: asset-db:worker-effect-data-processing (124ms)
+5-8-2023 11:29:22-debug: refresh db assets success
+5-8-2023 11:29:22-debug: asset-db:refresh-all-database (189ms)
+5-8-2023 11:29:24-debug: Query all assets info in project
+5-8-2023 11:29:24-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:29:24-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:29:24-debug:   Number of all scenes: 3
+5-8-2023 11:29:24-debug:   Number of other assets: 377
+5-8-2023 11:29:24-debug:   Number of all scripts: 9
+5-8-2023 11:29:24-debug: Process: heapTotal 231.14MB heapUsed 201.04MB rss 548.75MB
+5-8-2023 11:29:24-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:29:24-debug: Query asset bundle start0%
+5-8-2023 11:29:24-debug: // ---- build task Query asset bundle ---- (11ms)
+5-8-2023 11:29:24-debug: run build task Query asset bundle success in 11 ms √3%
+5-8-2023 11:29:24-debug: Process: heapTotal 231.64MB heapUsed 197.07MB rss 549.35MB
+5-8-2023 11:29:24-debug: Query and organize assets start3%
+5-8-2023 11:29:24-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:29:24-debug: init bundle assets
+5-8-2023 11:29:24-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:29:24-debug: Number of scenes: 3
+5-8-2023 11:29:24-debug: // ---- build task Query and organize assets ---- (7ms)
+5-8-2023 11:29:24-debug: run build task Query and organize assets success in 7 ms √7%
+5-8-2023 11:29:24-debug: // ---- build task Organize scripts ----
+5-8-2023 11:29:24-debug: Organize scripts start7%
+5-8-2023 11:29:24-debug: sort script group...
+5-8-2023 11:29:24-debug: Process: heapTotal 231.64MB heapUsed 197.30MB rss 546.76MB
+5-8-2023 11:29:24-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:29:24-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:29:24-debug: Process: heapTotal 231.64MB heapUsed 197.33MB rss 546.66MB
+5-8-2023 11:29:24-debug: Init settings and config start10%
+5-8-2023 11:29:24-debug: // ---- build task Init settings and config ----
+5-8-2023 11:29:24-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:29:24-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:29:24-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:29:24-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:29:24-debug: Process: heapTotal 231.64MB heapUsed 197.38MB rss 546.42MB
+5-8-2023 11:29:24-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:29:24-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-8-2023 11:29:24-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-8-2023 11:29:24-debug: Process: heapTotal 231.64MB heapUsed 197.41MB rss 546.42MB
+5-8-2023 11:29:24-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:29:24-debug: Sort some build options to settings.json start11%
+5-8-2023 11:29:26-debug: // ---- build task Sort some build options to settings.json ---- (1134ms)
+5-8-2023 11:29:26-debug: run build task Sort some build options to settings.json success in 1134 ms √12%
+5-8-2023 11:29:26-debug: custom joint texture layouts start12%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.49MB rss 546.49MB
+5-8-2023 11:29:26-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:29:26-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-8-2023 11:29:26-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.52MB rss 546.50MB
+5-8-2023 11:29:26-debug: custom joint physics start12%
+5-8-2023 11:29:26-debug: // ---- build task custom joint physics ----
+5-8-2023 11:29:26-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:29:26-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:29:26-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:29:26-debug: Fill script data to settings start13%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.55MB rss 546.50MB
+5-8-2023 11:29:26-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:29:26-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.58MB rss 546.47MB
+5-8-2023 11:29:26-debug: Fill scene data to settings start13%
+5-8-2023 11:29:26-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:29:26-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-8-2023 11:29:26-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.61MB rss 546.47MB
+5-8-2023 11:29:26-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:29:26-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:29:26-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:29:26-debug: Process: heapTotal 231.64MB heapUsed 197.65MB rss 546.48MB
+5-8-2023 11:29:26-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:29:26-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:29:26-debug: options.md5Cache is false.
+5-8-2023 11:29:26-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-8-2023 11:29:26-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √15%
+5-8-2023 11:29:30-debug: refresh db internal success
+5-8-2023 11:29:30-debug: asset-db:worker-effect-data-processing (124ms)
+5-8-2023 11:29:30-debug: refresh db assets success
+5-8-2023 11:29:30-debug: asset-db:refresh-all-database (176ms)
+5-8-2023 11:29:42-debug: refresh db internal success
+5-8-2023 11:29:42-debug: asset-db:worker-effect-data-processing (164ms)
+5-8-2023 11:29:42-debug: refresh db assets success
+5-8-2023 11:29:42-debug: asset-db:refresh-all-database (218ms)
+5-8-2023 11:29:46-debug: refresh db internal success
+5-8-2023 11:29:47-debug: asset-db:worker-effect-data-processing (129ms)
+5-8-2023 11:29:47-debug: refresh db assets success
+5-8-2023 11:29:47-debug: asset-db:refresh-all-database (182ms)
+5-8-2023 11:29:51-debug: Query all assets info in project
+5-8-2023 11:29:51-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:29:51-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:29:51-debug:   Number of all scripts: 9
+5-8-2023 11:29:51-debug:   Number of other assets: 377
+5-8-2023 11:29:51-debug:   Number of all scenes: 3
+5-8-2023 11:29:51-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:29:51-debug: Query asset bundle start0%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 192.61MB rss 542.04MB
+5-8-2023 11:29:51-debug: // ---- build task Query asset bundle ---- (7ms)
+5-8-2023 11:29:51-debug: run build task Query asset bundle success in 7 ms √3%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.39MB rss 542.04MB
+5-8-2023 11:29:51-debug: Query and organize assets start3%
+5-8-2023 11:29:51-debug: init bundle assets
+5-8-2023 11:29:51-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:29:51-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:29:51-debug: Number of scenes: 3
+5-8-2023 11:29:51-debug: // ---- build task Query and organize assets ---- (4ms)
+5-8-2023 11:29:51-debug: run build task Query and organize assets success in 4 ms √7%
+5-8-2023 11:29:51-debug: Organize scripts start7%
+5-8-2023 11:29:51-debug: // ---- build task Organize scripts ----
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.54MB rss 542.07MB
+5-8-2023 11:29:51-debug: sort script group...
+5-8-2023 11:29:51-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:29:51-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.58MB rss 542.08MB
+5-8-2023 11:29:51-debug: Init settings and config start10%
+5-8-2023 11:29:51-debug: // ---- build task Init settings and config ----
+5-8-2023 11:29:51-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:29:51-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:29:51-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.62MB rss 542.08MB
+5-8-2023 11:29:51-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:29:51-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:29:51-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-8-2023 11:29:51-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.65MB rss 542.08MB
+5-8-2023 11:29:51-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:29:51-debug: Sort some build options to settings.json start11%
+5-8-2023 11:29:51-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+5-8-2023 11:29:51-debug: run build task Sort some build options to settings.json success in 3 ms √12%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.73MB rss 542.15MB
+5-8-2023 11:29:51-debug: custom joint texture layouts start12%
+5-8-2023 11:29:51-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:29:51-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-8-2023 11:29:51-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.77MB rss 542.15MB
+5-8-2023 11:29:51-debug: // ---- build task custom joint physics ----
+5-8-2023 11:29:51-debug: custom joint physics start12%
+5-8-2023 11:29:51-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:29:51-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.80MB rss 542.16MB
+5-8-2023 11:29:51-debug: Fill script data to settings start13%
+5-8-2023 11:29:51-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:29:51-debug: run build task Fill script data to settings success in 0 ms √13%
+5-8-2023 11:29:51-debug: Fill scene data to settings start13%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.82MB rss 542.13MB
+5-8-2023 11:29:51-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:29:51-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-8-2023 11:29:51-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:29:51-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.85MB rss 542.13MB
+5-8-2023 11:29:51-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:29:51-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:29:51-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:29:51-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:29:51-debug: Process: heapTotal 227.54MB heapUsed 194.89MB rss 542.14MB
+5-8-2023 11:29:51-debug: options.md5Cache is false.
+5-8-2023 11:29:51-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-8-2023 11:29:51-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √15%
+5-8-2023 11:30:02-debug: refresh db internal success
+5-8-2023 11:30:02-debug: asset-db:worker-effect-data-processing (127ms)
+5-8-2023 11:30:02-debug: refresh db assets success
+5-8-2023 11:30:02-debug: asset-db:refresh-all-database (177ms)
+5-8-2023 11:30:09-debug: refresh db internal success
+5-8-2023 11:30:09-debug: asset-db:worker-effect-data-processing (176ms)
+5-8-2023 11:30:09-debug: refresh db assets success
+5-8-2023 11:30:09-debug: asset-db:refresh-all-database (234ms)
+5-8-2023 11:30:09-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scene...
+5-8-2023 11:30:09-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Entry.scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:30:09-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene success
+5-8-2023 11:30:09-debug: Query all assets info in project
+5-8-2023 11:30:10-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:30:10-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:30:10-debug:   Number of all scenes: 3
+5-8-2023 11:30:10-debug:   Number of all scripts: 9
+5-8-2023 11:30:10-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:30:10-debug: Query asset bundle start0%
+5-8-2023 11:30:10-debug: Process: heapTotal 227.93MB heapUsed 194.02MB rss 539.54MB
+5-8-2023 11:30:10-debug:   Number of other assets: 377
+5-8-2023 11:30:10-debug: // ---- build task Query asset bundle ---- (9ms)
+5-8-2023 11:30:10-debug: run build task Query asset bundle success in 9 ms √3%
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.32MB rss 538.56MB
+5-8-2023 11:30:10-debug: init bundle assets
+5-8-2023 11:30:10-debug: Query and organize assets start3%
+5-8-2023 11:30:10-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:30:10-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:30:10-debug: Number of scenes: 3
+5-8-2023 11:30:10-debug: // ---- build task Query and organize assets ---- (4ms)
+5-8-2023 11:30:10-debug: run build task Query and organize assets success in 4 ms √7%
+5-8-2023 11:30:10-debug: Organize scripts start7%
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.46MB rss 538.52MB
+5-8-2023 11:30:10-debug: // ---- build task Organize scripts ----
+5-8-2023 11:30:10-debug: sort script group...
+5-8-2023 11:30:10-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:30:10-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:30:10-debug: Init settings and config start10%
+5-8-2023 11:30:10-debug: // ---- build task Init settings and config ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.50MB rss 538.52MB
+5-8-2023 11:30:10-debug: run build task Init settings and config success in 0 ms √11%
+5-8-2023 11:30:10-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:30:10-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:30:10-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.53MB rss 538.51MB
+5-8-2023 11:30:10-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-8-2023 11:30:10-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-8-2023 11:30:10-debug: Sort some build options to settings.json start11%
+5-8-2023 11:30:10-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.57MB rss 538.51MB
+5-8-2023 11:30:10-debug: // ---- build task Sort some build options to settings.json ---- (8ms)
+5-8-2023 11:30:10-debug: run build task Sort some build options to settings.json success in 8 ms √12%
+5-8-2023 11:30:10-debug: custom joint texture layouts start12%
+5-8-2023 11:30:10-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.65MB rss 538.59MB
+5-8-2023 11:30:10-debug: // ---- build task custom joint texture layouts ---- (2ms)
+5-8-2023 11:30:10-debug: run build task custom joint texture layouts success in 2 ms √12%
+5-8-2023 11:30:10-debug: custom joint physics start12%
+5-8-2023 11:30:10-debug: // ---- build task custom joint physics ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.69MB rss 538.59MB
+5-8-2023 11:30:10-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:30:10-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:30:10-debug: Fill script data to settings start13%
+5-8-2023 11:30:10-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.71MB rss 538.59MB
+5-8-2023 11:30:10-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:30:10-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.74MB rss 538.57MB
+5-8-2023 11:30:10-debug: Fill scene data to settings start13%
+5-8-2023 11:30:10-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:30:10-debug: // ---- build task Fill scene data to settings ---- (1ms)
+5-8-2023 11:30:10-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:30:10-debug: run build task Fill scene data to settings success in 1 ms √14%
+5-8-2023 11:30:10-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.77MB rss 538.57MB
+5-8-2023 11:30:10-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:30:10-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:30:10-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:30:10-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:30:10-debug: options.md5Cache is false.
+5-8-2023 11:30:10-debug: Process: heapTotal 226.02MB heapUsed 188.81MB rss 538.58MB
+5-8-2023 11:30:10-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-8-2023 11:30:10-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √15%
+5-8-2023 11:30:36-debug: Query all assets info in project
+5-8-2023 11:30:36-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:30:36-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:30:36-debug:   Number of other assets: 377
+5-8-2023 11:30:36-debug:   Number of all scripts: 9
+5-8-2023 11:30:36-debug: Query asset bundle start0%
+5-8-2023 11:30:36-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 191.75MB rss 539.62MB
+5-8-2023 11:30:36-debug:   Number of all scenes: 3
+5-8-2023 11:30:36-debug: run build task Query asset bundle success in 8 ms √3%
+5-8-2023 11:30:36-debug: // ---- build task Query asset bundle ---- (8ms)
+5-8-2023 11:30:36-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.52MB rss 540.21MB
+5-8-2023 11:30:36-debug: Query and organize assets start3%
+5-8-2023 11:30:36-debug: init bundle assets
+5-8-2023 11:30:36-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:30:36-debug: Number of scenes: 3
+5-8-2023 11:30:36-debug: // ---- build task Query and organize assets ---- (4ms)
+5-8-2023 11:30:36-debug: run build task Query and organize assets success in 4 ms √7%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.65MB rss 541.08MB
+5-8-2023 11:30:36-debug: sort script group...
+5-8-2023 11:30:36-debug: Organize scripts start7%
+5-8-2023 11:30:36-debug: // ---- build task Organize scripts ----
+5-8-2023 11:30:36-debug: run build task Organize scripts success in 0 ms √10%
+5-8-2023 11:30:36-debug: Init settings and config start10%
+5-8-2023 11:30:36-debug: // ---- build task Init settings and config ----
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.68MB rss 541.95MB
+5-8-2023 11:30:36-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:30:36-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:30:36-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:30:36-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.79MB rss 539.34MB
+5-8-2023 11:30:36-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:30:36-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-8-2023 11:30:36-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-8-2023 11:30:36-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.82MB rss 539.17MB
+5-8-2023 11:30:36-debug: Sort some build options to settings.json start11%
+5-8-2023 11:30:36-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+5-8-2023 11:30:36-debug: run build task Sort some build options to settings.json success in 3 ms √12%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.91MB rss 538.91MB
+5-8-2023 11:30:36-debug: custom joint texture layouts start12%
+5-8-2023 11:30:36-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:30:36-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-8-2023 11:30:36-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-8-2023 11:30:36-debug: custom joint physics start12%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.94MB rss 538.91MB
+5-8-2023 11:30:36-debug: // ---- build task custom joint physics ----
+5-8-2023 11:30:36-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:30:36-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:30:36-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:30:36-debug: Fill script data to settings start13%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.96MB rss 538.91MB
+5-8-2023 11:30:36-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:30:36-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:30:36-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:30:36-debug: Fill scene data to settings start13%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 193.99MB rss 538.92MB
+5-8-2023 11:30:36-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 194.02MB rss 538.89MB
+5-8-2023 11:30:36-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:30:36-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:30:36-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:30:36-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:30:36-debug: Process: heapTotal 226.02MB heapUsed 194.05MB rss 538.90MB
+5-8-2023 11:30:36-debug: options.md5Cache is false.
+5-8-2023 11:30:36-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:30:36-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:30:36-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (2ms)
+5-8-2023 11:30:36-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 2 ms √15%
+5-8-2023 11:30:46-debug: refresh db internal success
+5-8-2023 11:30:46-debug: asset-db:worker-effect-data-processing (207ms)
+5-8-2023 11:30:46-debug: refresh db assets success
+5-8-2023 11:30:46-debug: asset-db:refresh-all-database (285ms)
+5-8-2023 11:30:56-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Menu.scene...
+5-8-2023 11:30:56-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Menu.scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:30:56-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene success
+5-8-2023 11:30:57-debug: Query all assets info in project
+5-8-2023 11:30:57-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:30:57-debug:   Number of all scenes: 3
+5-8-2023 11:30:57-debug:   Number of all scripts: 9
+5-8-2023 11:30:57-debug:   Number of other assets: 377
+5-8-2023 11:30:57-debug: Query asset bundle start0%
+5-8-2023 11:30:57-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:30:57-debug: Process: heapTotal 229.80MB heapUsed 197.48MB rss 546.92MB
+5-8-2023 11:30:57-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:30:57-debug: run build task Query asset bundle success in 11 ms √3%
+5-8-2023 11:30:57-debug: // ---- build task Query asset bundle ---- (11ms)
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.62MB rss 527.88MB
+5-8-2023 11:30:57-debug: Query and organize assets start3%
+5-8-2023 11:30:57-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:30:57-debug: init bundle assets
+5-8-2023 11:30:57-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:30:57-debug: Number of scenes: 3
+5-8-2023 11:30:57-debug: // ---- build task Query and organize assets ---- (3ms)
+5-8-2023 11:30:57-debug: run build task Query and organize assets success in 3 ms √7%
+5-8-2023 11:30:57-debug: Organize scripts start7%
+5-8-2023 11:30:57-debug: // ---- build task Organize scripts ----
+5-8-2023 11:30:57-debug: sort script group...
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.78MB rss 527.79MB
+5-8-2023 11:30:57-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:30:57-debug: Init settings and config start10%
+5-8-2023 11:30:57-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.81MB rss 527.71MB
+5-8-2023 11:30:57-debug: // ---- build task Init settings and config ----
+5-8-2023 11:30:57-debug: run build task Init settings and config success in 0 ms √11%
+5-8-2023 11:30:57-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:30:57-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.84MB rss 527.48MB
+5-8-2023 11:30:57-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:30:57-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-8-2023 11:30:57-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-8-2023 11:30:57-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:30:57-debug: Sort some build options to settings.json start11%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.88MB rss 527.52MB
+5-8-2023 11:30:57-debug: // ---- build task Sort some build options to settings.json ---- (6ms)
+5-8-2023 11:30:57-debug: run build task Sort some build options to settings.json success in 6 ms √12%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 189.97MB rss 527.68MB
+5-8-2023 11:30:57-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:30:57-debug: custom joint texture layouts start12%
+5-8-2023 11:30:57-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-8-2023 11:30:57-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-8-2023 11:30:57-debug: custom joint physics start12%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 190.00MB rss 527.71MB
+5-8-2023 11:30:57-debug: // ---- build task custom joint physics ----
+5-8-2023 11:30:57-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:30:57-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 190.03MB rss 527.74MB
+5-8-2023 11:30:57-debug: Fill script data to settings start13%
+5-8-2023 11:30:57-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:30:57-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:30:57-debug: Fill scene data to settings start13%
+5-8-2023 11:30:57-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:30:57-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 190.05MB rss 527.74MB
+5-8-2023 11:30:57-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:30:57-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-8-2023 11:30:57-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 190.08MB rss 527.77MB
+5-8-2023 11:30:57-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:30:57-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:30:57-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:30:57-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:30:57-debug: Process: heapTotal 212.69MB heapUsed 190.12MB rss 527.82MB
+5-8-2023 11:30:57-debug: options.md5Cache is false.
+5-8-2023 11:30:57-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-8-2023 11:30:57-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √15%
+5-8-2023 11:32:16-debug: refresh db internal success
+5-8-2023 11:32:16-debug: asset-db:worker-effect-data-processing (145ms)
+5-8-2023 11:32:16-debug: refresh db assets success
+5-8-2023 11:32:16-debug: asset-db:refresh-all-database (207ms)
+5-8-2023 11:32:18-debug: refresh db internal success
+5-8-2023 11:32:18-debug: asset-db:worker-effect-data-processing (178ms)
+5-8-2023 11:32:18-debug: refresh db assets success
+5-8-2023 11:32:18-debug: asset-db:refresh-all-database (235ms)
+5-8-2023 11:32:26-debug: Query all assets info in project
+5-8-2023 11:32:26-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:32:26-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:32:26-debug:   Number of other assets: 377
+5-8-2023 11:32:26-debug: Query asset bundle start0%
+5-8-2023 11:32:26-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:32:26-debug: Process: heapTotal 231.90MB heapUsed 200.32MB rss 550.40MB
+5-8-2023 11:32:26-debug:   Number of all scripts: 9
+5-8-2023 11:32:26-debug:   Number of all scenes: 3
+5-8-2023 11:32:26-debug: // ---- build task Query asset bundle ---- (7ms)
+5-8-2023 11:32:26-debug: run build task Query asset bundle success in 7 ms √3%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.32MB rss 543.55MB
+5-8-2023 11:32:26-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:32:26-debug: init bundle assets
+5-8-2023 11:32:26-debug: Query and organize assets start3%
+5-8-2023 11:32:26-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:32:26-debug: Number of scenes: 3
+5-8-2023 11:32:26-debug: // ---- build task Query and organize assets ---- (4ms)
+5-8-2023 11:32:26-debug: run build task Query and organize assets success in 4 ms √7%
+5-8-2023 11:32:26-debug: Organize scripts start7%
+5-8-2023 11:32:26-debug: // ---- build task Organize scripts ----
+5-8-2023 11:32:26-debug: sort script group...
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.47MB rss 543.58MB
+5-8-2023 11:32:26-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:32:26-debug: Init settings and config start10%
+5-8-2023 11:32:26-debug: // ---- build task Init settings and config ----
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.50MB rss 543.59MB
+5-8-2023 11:32:26-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:32:26-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:32:26-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:32:26-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.54MB rss 543.59MB
+5-8-2023 11:32:26-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:32:26-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:32:26-debug: // ---- build task builder.tasks.settings.macro ---- (1ms)
+5-8-2023 11:32:26-debug: run build task builder.tasks.settings.macro success in 1 ms √11%
+5-8-2023 11:32:26-debug: Sort some build options to settings.json start11%
+5-8-2023 11:32:26-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.58MB rss 543.59MB
+5-8-2023 11:32:26-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+5-8-2023 11:32:26-debug: run build task Sort some build options to settings.json success in 4 ms √12%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.67MB rss 543.66MB
+5-8-2023 11:32:26-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:32:26-debug: custom joint texture layouts start12%
+5-8-2023 11:32:26-debug: // ---- build task custom joint texture layouts ---- (2ms)
+5-8-2023 11:32:26-debug: run build task custom joint texture layouts success in 2 ms √12%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.70MB rss 543.66MB
+5-8-2023 11:32:26-debug: custom joint physics start12%
+5-8-2023 11:32:26-debug: // ---- build task custom joint physics ----
+5-8-2023 11:32:26-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:32:26-debug: Fill script data to settings start13%
+5-8-2023 11:32:26-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.72MB rss 543.67MB
+5-8-2023 11:32:26-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:32:26-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:32:26-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:32:26-debug: Fill scene data to settings start13%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.75MB rss 543.64MB
+5-8-2023 11:32:26-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:32:26-debug: run build task Fill scene data to settings success in 0 ms √14%
+5-8-2023 11:32:26-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.78MB rss 543.64MB
+5-8-2023 11:32:26-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:32:26-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:32:26-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:32:26-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:32:26-debug: Process: heapTotal 228.95MB heapUsed 192.82MB rss 543.65MB
+5-8-2023 11:32:26-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:32:26-debug: options.md5Cache is false.
+5-8-2023 11:32:26-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-8-2023 11:32:47-debug: Query all assets info in project
+5-8-2023 11:32:47-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:32:47-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:32:47-debug:   Number of all scenes: 3
+5-8-2023 11:32:47-debug:   Number of all scripts: 9
+5-8-2023 11:32:47-debug:   Number of other assets: 377
+5-8-2023 11:32:47-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:32:47-debug: Process: heapTotal 228.95MB heapUsed 195.28MB rss 543.67MB
+5-8-2023 11:32:47-debug: Query asset bundle start0%
+5-8-2023 11:32:47-debug: // ---- build task Query asset bundle ---- (7ms)
+5-8-2023 11:32:47-debug: run build task Query asset bundle success in 7 ms √3%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.64MB rss 531.42MB
+5-8-2023 11:32:47-debug: init bundle assets
+5-8-2023 11:32:47-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:32:47-debug: Query and organize assets start3%
+5-8-2023 11:32:47-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:32:47-debug: Number of scenes: 3
+5-8-2023 11:32:47-debug: // ---- build task Query and organize assets ---- (3ms)
+5-8-2023 11:32:47-debug: run build task Query and organize assets success in 3 ms √7%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.77MB rss 529.45MB
+5-8-2023 11:32:47-debug: Organize scripts start7%
+5-8-2023 11:32:47-debug: sort script group...
+5-8-2023 11:32:47-debug: // ---- build task Organize scripts ----
+5-8-2023 11:32:47-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:32:47-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:32:47-debug: // ---- build task Init settings and config ----
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.80MB rss 529.45MB
+5-8-2023 11:32:47-debug: Init settings and config start10%
+5-8-2023 11:32:47-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:32:47-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:32:47-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.84MB rss 529.28MB
+5-8-2023 11:32:47-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:32:47-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:32:47-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-8-2023 11:32:47-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.88MB rss 529.29MB
+5-8-2023 11:32:47-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:32:47-debug: Sort some build options to settings.json start11%
+5-8-2023 11:32:47-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+5-8-2023 11:32:47-debug: run build task Sort some build options to settings.json success in 3 ms √12%
+5-8-2023 11:32:47-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.96MB rss 529.32MB
+5-8-2023 11:32:47-debug: custom joint texture layouts start12%
+5-8-2023 11:32:47-debug: // ---- build task custom joint texture layouts ---- (2ms)
+5-8-2023 11:32:47-debug: run build task custom joint texture layouts success in 2 ms √12%
+5-8-2023 11:32:47-debug: custom joint physics start12%
+5-8-2023 11:32:47-debug: // ---- build task custom joint physics ----
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 190.99MB rss 529.32MB
+5-8-2023 11:32:47-debug: // ---- build task custom joint physics ---- (1ms)
+5-8-2023 11:32:47-debug: run build task custom joint physics success in 1 ms √13%
+5-8-2023 11:32:47-debug: Fill script data to settings start13%
+5-8-2023 11:32:47-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 191.02MB rss 529.33MB
+5-8-2023 11:32:47-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:32:47-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:32:47-debug: Fill scene data to settings start13%
+5-8-2023 11:32:47-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 191.05MB rss 529.33MB
+5-8-2023 11:32:47-debug: // ---- build task Fill scene data to settings ---- (1ms)
+5-8-2023 11:32:47-debug: run build task Fill scene data to settings success in 1 ms √14%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 191.08MB rss 529.30MB
+5-8-2023 11:32:47-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:32:47-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:32:47-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:32:47-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:32:47-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:32:47-debug: Process: heapTotal 213.95MB heapUsed 191.12MB rss 529.31MB
+5-8-2023 11:32:47-debug: options.md5Cache is false.
+5-8-2023 11:32:47-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:32:47-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ---- (1ms)
+5-8-2023 11:32:47-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 1 ms √15%
+5-8-2023 11:33:03-debug: refresh db internal success
+5-8-2023 11:33:03-debug: asset-db:worker-effect-data-processing (141ms)
+5-8-2023 11:33:03-debug: refresh db assets success
+5-8-2023 11:33:03-debug: asset-db:refresh-all-database (196ms)
+5-8-2023 11:33:03-debug: start refresh asset from C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Menu.scene...
+5-8-2023 11:33:03-debug: %cImport%c: C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene\Menu.scenebackground: #aaff85; color: #000;color: #000;
+5-8-2023 11:33:03-debug: refresh asset C:\Users\ADMIN\OneDrive\Máy tính\SudokuMain2\SudokuMain2\assets\Scene success
+5-8-2023 11:33:04-debug: Query all assets info in project
+5-8-2023 11:33:04-debug: BuildAssetLibrary query-assets with assets 528
+5-8-2023 11:33:04-debug: init custom config: keepNodeUuid: false, useCache: true
+5-8-2023 11:33:04-debug:   Number of other assets: 377
+5-8-2023 11:33:04-debug:   Number of all scripts: 9
+5-8-2023 11:33:04-debug:   Number of all scenes: 3
+5-8-2023 11:33:04-debug: // ---- build task Query asset bundle ----
+5-8-2023 11:33:04-debug: Query asset bundle start0%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 199.37MB rss 546.66MB
+5-8-2023 11:33:04-debug: // ---- build task Query asset bundle ---- (6ms)
+5-8-2023 11:33:04-debug: run build task Query asset bundle success in 6 ms √3%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.17MB rss 546.66MB
+5-8-2023 11:33:04-debug: // ---- build task Query and organize assets ----
+5-8-2023 11:33:04-debug: Query and organize assets start3%
+5-8-2023 11:33:04-debug: init bundle assets
+5-8-2023 11:33:04-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+5-8-2023 11:33:04-debug: Number of scenes: 3
+5-8-2023 11:33:04-debug: // ---- build task Query and organize assets ---- (3ms)
+5-8-2023 11:33:04-debug: // ---- build task Organize scripts ----
+5-8-2023 11:33:04-debug: run build task Query and organize assets success in 3 ms √7%
+5-8-2023 11:33:04-debug: Organize scripts start7%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.29MB rss 546.68MB
+5-8-2023 11:33:04-debug: sort script group...
+5-8-2023 11:33:04-debug: // ---- build task Organize scripts ---- (1ms)
+5-8-2023 11:33:04-debug: Init settings and config start10%
+5-8-2023 11:33:04-debug: run build task Organize scripts success in 1 ms √10%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.33MB rss 546.56MB
+5-8-2023 11:33:04-debug: // ---- build task Init settings and config ----
+5-8-2023 11:33:04-debug: // ---- build task Init settings and config ---- (1ms)
+5-8-2023 11:33:04-debug: run build task Init settings and config success in 1 ms √11%
+5-8-2023 11:33:04-debug: builder.tasks.settings.macro does not defined in i18n
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.37MB rss 546.50MB
+5-8-2023 11:33:04-debug: // ---- build task builder.tasks.settings.macro ----
+5-8-2023 11:33:04-debug: builder.tasks.settings.macro start11%
+5-8-2023 11:33:04-debug: // ---- build task builder.tasks.settings.macro ---- (2ms)
+5-8-2023 11:33:04-debug: run build task builder.tasks.settings.macro success in 2 ms √11%
+5-8-2023 11:33:04-debug: // ---- build task Sort some build options to settings.json ----
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.41MB rss 546.50MB
+5-8-2023 11:33:04-debug: Sort some build options to settings.json start11%
+5-8-2023 11:33:04-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+5-8-2023 11:33:04-debug: run build task Sort some build options to settings.json success in 2 ms √12%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.49MB rss 546.57MB
+5-8-2023 11:33:04-debug: custom joint texture layouts start12%
+5-8-2023 11:33:04-debug: // ---- build task custom joint texture layouts ----
+5-8-2023 11:33:04-debug: // ---- build task custom joint texture layouts ---- (1ms)
+5-8-2023 11:33:04-debug: run build task custom joint texture layouts success in 1 ms √12%
+5-8-2023 11:33:04-debug: custom joint physics start12%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.52MB rss 546.58MB
+5-8-2023 11:33:04-debug: // ---- build task custom joint physics ----
+5-8-2023 11:33:04-debug: run build task custom joint physics success in 0 ms √13%
+5-8-2023 11:33:04-debug: Fill script data to settings start13%
+5-8-2023 11:33:04-debug: // ---- build task Fill script data to settings ----
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.54MB rss 546.58MB
+5-8-2023 11:33:04-debug: // ---- build task Fill script data to settings ---- (1ms)
+5-8-2023 11:33:04-debug: run build task Fill script data to settings success in 1 ms √13%
+5-8-2023 11:33:04-debug: Fill scene data to settings start13%
+5-8-2023 11:33:04-debug: // ---- build task Fill scene data to settings ----
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.57MB rss 546.58MB
+5-8-2023 11:33:04-debug: // ---- build task Fill scene data to settings ---- (1ms)
+5-8-2023 11:33:04-debug: run build task Fill scene data to settings success in 1 ms √14%
+5-8-2023 11:33:04-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ----
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.60MB rss 546.55MB
+5-8-2023 11:33:04-debug: Organize assets groups，generate packedAssets and rawAssets data start14%
+5-8-2023 11:33:04-debug: // ---- build task Organize assets groups，generate packedAssets and rawAssets data ---- (1ms)
+5-8-2023 11:33:04-debug: run build task Organize assets groups，generate packedAssets and rawAssets data success in 1 ms √14%
+5-8-2023 11:33:04-debug: // ---- build task Generate md5AssetsMap from suffixMap to settings ----
+5-8-2023 11:33:04-debug: Generate md5AssetsMap from suffixMap to settings start14%
+5-8-2023 11:33:04-debug: Process: heapTotal 231.51MB heapUsed 201.64MB rss 546.57MB
+5-8-2023 11:33:04-debug: options.md5Cache is false.
+5-8-2023 11:33:04-debug: run build task Generate md5AssetsMap from suffixMap to settings success in 0 ms √15%
+5-8-2023 11:33:11-debug: refresh db internal success
+5-8-2023 11:33:11-debug: asset-db:worker-effect-data-processing (171ms)
+5-8-2023 11:33:11-debug: refresh db assets success
+5-8-2023 11:33:11-debug: asset-db:refresh-all-database (224ms)
+5-8-2023 11:33:22-debug: refresh db internal success
+5-8-2023 11:33:22-debug: asset-db:worker-effect-data-processing (134ms)
+5-8-2023 11:33:22-debug: refresh db assets success
+5-8-2023 11:33:22-debug: asset-db:refresh-all-database (201ms)
+5-8-2023 11:33:48-debug: refresh db internal success
+5-8-2023 11:33:48-debug: asset-db:worker-effect-data-processing (184ms)
+5-8-2023 11:33:48-debug: refresh db assets success
+5-8-2023 11:33:48-debug: asset-db:refresh-all-database (245ms)
